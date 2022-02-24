@@ -1,0 +1,2831 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The poor scholar a comedy / vvritten by Robert Nevile ...</title>
+            <author>Neville, Robert, 1640 or 1-1694.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 138 KB of XML-encoded text transcribed from 29 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52863</idno>
+            <idno type="STC">Wing N524</idno>
+            <idno type="STC">ESTC R14670</idno>
+            <idno type="EEBO-CITATION">12939898</idno>
+            <idno type="OCLC">ocm 12939898</idno>
+            <idno type="VID">95846</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52863)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95846)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 363:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The poor scholar a comedy / vvritten by Robert Nevile ...</title>
+                  <author>Neville, Robert, 1640 or 1-1694.</author>
+               </titleStmt>
+               <extent>[55] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho. Johnson for Francis Kirkman and Henry Marsh, and are to be sold at their shop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Advertisement: p. [55].</note>
+                  <note>Reproduction of original in University of Michigan Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95846:1"/>
+            <pb facs="tcp:95846:1"/>
+            <p>THE Poor Scholar. A COMEDY.</p>
+            <p>VVritten by <hi>Robert Nevile,</hi> Fellow of Kings Colledge in CAMBRIDGE.</p>
+            <q>
+               <p>Spectatum admiſsi riſum teneatis amici?</p>
+               <bibl>Hor. de Art. Poet.</bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Tho. Johnſon,</hi> for <hi>Francis Kirkman,</hi> and <hi>Henry Marſh,</hi> and are to be ſold at their ſhop, at the Princes Arms in <hi>Chancery-lane.</hi> 1662.</p>
+         </div>
+         <div type="encomia">
+            <pb facs="tcp:95846:2" rendition="simple:additions"/>
+            <pb facs="tcp:95846:2"/>
+            <head>To his ingenuous Friend; upon his Play call'd, <hi>The Poor Scholar.</hi>
+            </head>
+            <lg>
+               <l>THe Boy of <hi>Macedon</hi> th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t wept out-right,</l>
+               <l>Erough to drown tis f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mous S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ag<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yrite,</l>
+               <l>Becauſe like <hi>Thetis</hi> warlike iſſue, he</l>
+               <l>No <hi>Homer</hi> had to write his Hiſt<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e,</l>
+               <l>Miſtook his aim, for had his wiſh obtain'd</l>
+               <l>With th' eaſie Goas, his actions had been ſtain'd;</l>
+               <l>His Life had been Romance, and he been made</l>
+               <l>Some errant Knight of the Enchanted Blade.</l>
+               <l>Poets Subſtract, whilſt they would Multiply,</l>
+               <l>There's nor diſpraiſe like an Hyperbole.</l>
+               <l>This thus premiſed, I may prove at laſt</l>
+               <l>Becauſe no Poet, The Encomiaſt.</l>
+               <l>Others may over-praiſe thy Book, (for we</l>
+               <l>The beſt things often over-rated ſee)</l>
+               <l>My careleſs Phraſe and words that lie neglected,</l>
+               <l>This virtue have, that they'le not be ſuſpected.</l>
+               <l>So what I write will aequi diſtant lye</l>
+               <l>From poliſht Wit, and ſervile Flattery.</l>
+               <l>Bees from a bruiſedox, ſay's <hi>Maro,</hi> breed,</l>
+               <l>But thou draw'ſt hony from a tatter'd Weed.</l>
+               <l>Seeing thy wit's ſo pure, thy Phraſe ſo clean,</l>
+               <l>Thy ſenſe ſo weighty, that each Line's a Scene,</l>
+               <l>Wee'l change the Song, and cry as truly too</l>
+               <l>Whither may not this thy <hi>Poor Scholar</hi> go?</l>
+               <l>This fault the beſt nos'd Criticks only ſmell</l>
+               <l>That thy <hi>Poor Scholar</hi> is attir'd too well.</l>
+               <l>
+                  <hi>Ben's</hi> Auditours were once in ſuch a mood,</l>
+               <l>That he was forc't to ſwear his <hi>Play</hi> was good;</l>
+               <l>Thy Play then his, doth far more currant go,</l>
+               <l>For without ſwearing, wee'l beleeve thine ſo.</l>
+            </lg>
+            <closer>
+               <signed>E.M.</signed>
+            </closer>
+         </div>
+         <div type="encomia">
+            <pb facs="tcp:95846:3"/>
+            <head>To my friend Mr. <hi>R. N.</hi> on his excellent Play, <hi>The Poor Scholar.</hi>
+            </head>
+            <lg>
+               <l>LEt thy Poor Scholar now no longer wait</l>
+               <l>For thy probation to be Graduate,</l>
+               <l>Let him commence Maſter of's Art; for he</l>
+               <l>H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'s kept his Acts in Wits Academy.</l>
+            </lg>
+            <closer>
+               <signed>T. L.</signed>
+            </closer>
+         </div>
+         <div type="encomia">
+            <head>To my very good friend, upon his excellent Play, call'd, <hi>The Poor Scholar.</hi>
+            </head>
+            <lg>
+               <l>FIll'd with rich fancy, golden Eloquence,</l>
+               <l>This thy <hi>(Poor Scholar)</hi> can have no pretence</l>
+               <l>To plead that he is poor, let thoſe complain</l>
+               <l>Rather of poverty, whoſe empty Brain</l>
+               <l>Meaſures its ſlow-pac't fancies by the glaſs,</l>
+               <l>And when't has ſerv'd 'um out can't make 'um paſs</l>
+               <l>For current Wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, but are adulterate:</l>
+               <l>And ſuch as flow from every Common pate;</l>
+               <l>But when the Ventricles of thy pregnant Brain,</l>
+               <l>Give birth to ſuch an iſſue without pain,</l>
+               <l>And it in ten days ſpace can wholly vent,</l>
+               <l>Nor force thee bite thy fingers excrement,</l>
+               <l>Like ſome dull Animals, whoſe barren ſeed</l>
+               <l>(Like Womens) <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> moneths ſpace requires to breed</l>
+               <l>Some poor Abortive Birth that dreads the light,</l>
+               <l>And fears to be expos'd to publick ſight)</l>
+               <l>Thy play (like a young true born Eagle) may</l>
+               <l>Behold the Sun in publick at Noon day.</l>
+            </lg>
+            <closer>
+               <signed>W. W.</signed>
+            </closer>
+         </div>
+         <div type="dramatis_personae">
+            <pb facs="tcp:95846:3"/>
+            <head>Drammatis Perſonae.</head>
+            <list>
+               <item>
+                  <hi>EUgenes Senior,</hi> Unckle to <hi>Eugenes Junior,</hi> and Preſident of the Colledge, a very paſſionate man, although a Clergy man.</item>
+               <item>
+                  <hi>Eugenes Junior,</hi> the Poor Scholar.</item>
+               <item>
+                  <hi>Eugenes junior's</hi> Father; a Citizen</item>
+               <item>
+                  <hi>Demoſthenes,</hi> Tutour to <hi>Eugenes Junior.</hi>
+               </item>
+               <item>
+                  <hi>Pege,</hi> a yong ſtudent, Chamber-fellow to <hi>Eugenes ju<g ref="char:EOLhyphen"/>nior,</hi> a Woman-hater.</item>
+               <item>
+                  <hi>Philos,</hi> a friend to <hi>Eugenes Senior,</hi> and one that diſco<g ref="char:EOLhyphen"/>ver'd his Nephews rambles to him, a Fellow of the ſame Colledge.</item>
+               <item>
+                  <hi>Aphobos,</hi> a mad Rakel, afterwards married to <hi>Anaiskun<g ref="char:EOLhyphen"/>tia.</hi>
+               </item>
+               <item>
+                  <hi>Eutrapelus,</hi> a quibbling fellow of <hi>Eugenes junior's</hi> ac<g ref="char:EOLhyphen"/>quaintance.</item>
+               <item>
+                  <hi>Morphe,</hi> a beautiful Lady, but of a low fortune, to whom <hi>Eugenes junior</hi> was a ſervant.</item>
+               <item>
+                  <hi>Anaiskuntia</hi> her Maid, an impudent ſcoffing Laſs, to whom <hi>Aphobos</hi> was a ſervant.</item>
+               <item>
+                  <hi>Eugeneia,</hi> ſiſter to <hi>Eugenes junior,</hi> and courted by <hi>Eu<g ref="char:EOLhyphen"/>trapelus.</hi>
+               </item>
+               <item>
+                  <hi>Uperephania</hi> her maid, a proud wench, and a great ha<g ref="char:EOLhyphen"/>ter of men.</item>
+               <item>Two Schollars.</item>
+               <item>Three Fellows of the Colledge.</item>
+            </list>
+         </div>
+         <div type="prologue">
+            <pb facs="tcp:95846:4"/>
+            <head>The Prologue to be ſpoken by <hi>Eugenes Junior,</hi> the Poor Scholar</head>
+            <lg>
+               <l>WHat? have our City Wits be<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uelt? that the y</l>
+               <l>Of late a'n'<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>able to beget a Play?</l>
+               <l>Or rather (troubl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d with Feares Quaking Fits)</l>
+               <l>Is <hi>London</hi> frighted out of all its Wits<g ref="char:punc">▪</g>
+               </l>
+               <l>By the <hi>Phanatick</hi> Crews late Inſurrection?</l>
+               <l>Or have they been moleſted with th' infection</l>
+               <l>Of the dull City air? with which the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r brains</l>
+               <l>Perhaps do ſympathize, and take more paines</l>
+               <l>Now to produce a Play, then <hi>Randolphs</hi> Quill</l>
+               <l>Would have requir'd the <hi>Theater</hi> to fill;</l>
+               <l>Have <hi>London</hi> wits drank down ſome deadly pot<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on?</l>
+               <l>Are onely Academick Wits in motion?</l>
+               <l>Muſt Genus, Species, which of you were won't</l>
+               <l>To trudge a foot, at last be forc'd to mount</l>
+               <l>
+                  <hi>The Muſes' Paegaſus?</hi> then I'le ſpur on</l>
+               <l>And ride a Scholars pace from <hi>Helicon</hi>
+               </l>
+               <l>To th' <hi>City Theater,</hi> and humbly beg</l>
+               <l>Your courteous audience with a ſcrape, or leg,</l>
+               <l>(Though't be but Scholar-like perform'd,) and dare</l>
+               <l>My wants i'th' hearing of you all declare,</l>
+               <l>I'le tell you, that I hope you are not ſo</l>
+               <l>Cruel, as to let Wit a begging go,</l>
+               <l>And that, if you'le grant me your approbation</l>
+               <l>
+                  <hi>I</hi> ſhall be richer then the <hi>Indian</hi> Nation.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="play">
+            <pb facs="tcp:95846:4"/>
+            <head>THE POOR SCHOLAR.</head>
+            <div n="1" type="act">
+               <head>ACT. 1.</head>
+               <div n="1" type="scene">
+                  <head>SCENE I.</head>
+                  <stage>Eugenes Jun. and Pege.</stage>
+                  <sp>
+                     <speaker>Eug. J.</speaker>
+                     <l>HOw now <hi>Pege,</hi> doſt not think I was poſſeſs'd</l>
+                     <l>With a Prophetick ſpirit, and ſpake as infallibly</l>
+                     <l>As an Oracle? When I told thee</l>
+                     <l>That were I never ſo exact a Chymiſt,</l>
+                     <l>I could not extract one graine of gold out of</l>
+                     <l>My fathers coffers: he graſpes his coine as faſt</l>
+                     <l>As drowning men do thoſe on whom they fix their clutches</l>
+                     <l>When they're the third time ſinking:</l>
+                     <l>Thy aid I prithee; what Engine? what ſtratagem</l>
+                     <l>Shall I uſe t'open the floodgates of his Liberality?</l>
+                     <l>For (as I am a Scholar and a poor one)</l>
+                     <l>My empty pockets no leſs require a flaſh</l>
+                     <l>From th' golden Tagus of his wealth,</l>
+                     <l>Then the moſt heavy-loaded Barge at</l>
+                     <l>Loweſt water; there's no danger that my pockets</l>
+                     <l>Should prodigally overflow their bancks,</l>
+                     <l>I having not wherewithal I may procure</l>
+                     <l>A competency of liquor to fill an Arch</l>
+                     <l>Of my leaſt hollow tooth, or wet my whiſtle.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pege.</speaker>
+                     <l>What will thy aged father neither vouchſafe</l>
+                     <l>To ſhine upon thee with a golden ray,</l>
+                     <l>Or water thee with a golden ſhowre?</l>
+                     <l>What neither rain nor ſun-ſhine?</l>
+                     <l>Then certainly thou canſt not but be barren:</l>
+                     <l>And thy pockets muſt neceſſarily be as dry</l>
+                     <l>As thy old fathers quite-exhauſted bones:</l>
+                     <pb facs="tcp:95846:5"/>
+                     <l>What does he ſordidly engroſs all his revenues</l>
+                     <l>To himſelf? if ſo, he does deſerve</l>
+                     <l>To have's gray beard puckt for its ſilver hairs,</l>
+                     <l>As geeſe are pluckt by ſchool-boys for their quills.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <l>O <hi>Pege;</hi> there's thunder in the name of Father:</l>
+                     <l>He trembl'd leſs that ſtole <hi>Joves</hi> golden Scepter,</l>
+                     <l>And ſcrap'd the ivory thigh of <hi>Hercules</hi>
+                     </l>
+                     <l>Arm'd with his club, then I, when I but ſpend</l>
+                     <l>A thought on ſo unnatural an act, as to prophane</l>
+                     <l>The ſilver ſhrine of thoſe gray hairs,</l>
+                     <l>Whoſe very age gives them a title to reſpect and reverence.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pege.</speaker>
+                     <l>If you'le ſtand forſooth, upon nice points</l>
+                     <l>Of Religion, you may ſtill continue as poor</l>
+                     <l>As one o'th Mendicant Friers, and like an Anchorite</l>
+                     <l>Live and die under a ruin'd and demoliſht-wal;</l>
+                     <l>And for want of coine to pay the Sexton,</l>
+                     <l>Be forc'd to dig your grave with (Natures Mathookes)</l>
+                     <l>Your long nailes.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eugen. J.</speaker>
+                     <l>Ah <hi>Pege,</hi> I'de rather dye in ſome remote</l>
+                     <l>And ſolitary deſert; and have no other grave,</l>
+                     <l>Then what the pitiful and tender hearted bird</l>
+                     <l>(With the red Stomacher) is wont to give us;</l>
+                     <l>(Which is no other then a maſs of leaves heap'd</l>
+                     <l>On a carkaſe) then bury the remembrance of</l>
+                     <l>Reverence and Duty to a Father.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pege.</speaker>
+                     <l>Thou haſt a noble ſpirit <hi>(Eugenes)</hi> and I'm</l>
+                     <l>Induc'd to think, that (like <hi>Jove</hi> on <hi>Danae</hi>)</l>
+                     <l>Some noble Deity deſcended on thy mother,</l>
+                     <l>And having given earneſt for thy birth in drams</l>
+                     <l>Of heavenly pleaſure, retir'd again to th' ſpangled</l>
+                     <l>Canopy; could ſuch a noble branch as thy brave ſelf</l>
+                     <l>Spring from (that root of evil) Avarice?</l>
+                     <l>So open and liberal a hand as thine, conſiſt of</l>
+                     <l>The ſame fleſh and blood, as thy cloſe-fiſted and</l>
+                     <l>Tenacious father? it ſeems to me a Prodigy in nature.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <l>Father? — ſighs</l>
+                     <l>I dare as ſoon (like thoſe accurſed ſons of</l>
+                     <pb facs="tcp:95846:5"/>
+                     <l>Earth the giants) plot and imagine treaſon</l>
+                     <l>Againſt heaven, as let the ſmalleſt ventricle of my</l>
+                     <l>Heart conceive one thought of diſobedience to my</l>
+                     <l>Father! let me conjure thee therefore by the ſacred tye</l>
+                     <l>Of our unfeigned amity and friendſhip, ne're for the future</l>
+                     <l>To mention my deareſt fathers ſacred name</l>
+                     <l>But with ſome ſwelling titles of dignity and honor.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pege.</speaker>
+                     <l>As hee's thy father (Noble <hi>Eugenes</hi>)</l>
+                     <l>Hee's worthy to be deify'd and ador'd, I could not</l>
+                     <l>Safer erre in any Labyrinth, then when I loſt</l>
+                     <l>My ſelf in his deſerv'd Encomiums, but if's</l>
+                     <l>Relation to thee be forgotten, I muſt and will</l>
+                     <l>Forget to tender him reſpect and reverence:</l>
+                     <l>But we muſt cut the thread of this diſcourſe,</l>
+                     <l>For here comes merry <hi>Eutrapelus;</hi> let us indulge</l>
+                     <l>Our ſelves in jovial mirth, and make enquiry</l>
+                     <l>What entertainment <hi>Eugeneia</hi> was pleaſ'd t' afford</l>
+                     <l>His courtſhip. God ſave you</l>
+                     <stage>Enter Eutrapelus.</stage>
+                     <l>Merry <hi>Eutrapelus.</hi>
+                     </l>
+                  </sp>
+                  <sp>
+                     <speaker>Eutrap.</speaker>
+                     <l>Your ſervant <hi>Pege;</hi> your vaſſal alſo noble <hi>Eugenes,</hi>
+                     </l>
+                     <l>I have been laying cloſe ſiege to the noble <hi>Eugeneia,</hi>
+                     </l>
+                     <l>But (by <hi>Venus'es</hi> happy Region the Middle) all</l>
+                     <l>The flaſhes of my ſparkling wit can't burn the fort of her</l>
+                     <l>Strong reſolutions againſt Marriage; ſhe takes of nothing</l>
+                     <l>Elſe but Nunneries, of Veſtaes ſacred order, and wiſhes</l>
+                     <l>That all men (like <hi>Cybele's</hi> prieſts) were</l>
+                     <l>Caſtrated and guelt, ſhe's another <hi>Lucretia</hi>
+                     </l>
+                     <l>For her ſqueamiſh coyneſs, and I'm afraid</l>
+                     <l>Shee'l ſooner ſtab her ſelf then let me</l>
+                     <l>Paſs a thruſt upon her.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <l>Why? are you ſo well arm'd and accouſtr'd</l>
+                     <l>
+                        <hi>Eutrapelus,</hi> that you talk of paſſing a thruſt?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eutrapel.</speaker>
+                     <l>I have as good a mettall'd dagger as that</l>
+                     <l>Which youthful <hi>Paris</hi> uſ'd to ſtab his <hi>Helena,</hi>
+                     </l>
+                     <l>When <hi>Venus</hi> promiſ'd him her beſt aſſiſtance;</l>
+                     <l>And (like <hi>Achille's</hi> Spear) it does no ſooner</l>
+                     <l>Wound a Lady, but 't can as ſpeedily perform the cure;</l>
+                     <pb facs="tcp:95846:6"/>
+                     <l>I have obtain'd a licence to wound yong Ladies</l>
+                     <l>(As Mountebanckes do their ſervants)</l>
+                     <l>To make experiment of my art, of curing</l>
+                     <l>Them again with my ſo famous Weapon-ſalve.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Pege.</speaker>
+                     <l>Now you talk of Mountebankes, I ſhrowdly ſuſpect</l>
+                     <l>You're a Mountebank, and promiſe greater cures</l>
+                     <l>Then your abilities will ſuffer you to perform.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eutrapel.</speaker>
+                     <l>I am not a Mountebank in your ſenſe <hi>(Pege,)</hi>
+                     </l>
+                     <l>But I wiſh I were in another; and that I</l>
+                     <l>Might Mount the Banks of <hi>Eugenia's</hi> pleaſant</l>
+                     <l>River, and yet I think were I upon the banks</l>
+                     <l>I quickly ſhould fall in, and were I but well in,</l>
+                     <l>She could not fall out with me, were ſhe</l>
+                     <l>More ſqueamiſh then ſhe is.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Iun.</speaker>
+                     <l>Well, ſince you muſt needes be riding,</l>
+                     <l>I'le back your mare, I'le make her pliant</l>
+                     <l>And gentle for your turn; I'le muſter up</l>
+                     <l>All the inducements and arguments I can,</l>
+                     <l>To make her grant you a fair</l>
+                     <l>And courteous audience, Ile ſound the trumpet</l>
+                     <l>Of your loud merits in her ear, and ſo</l>
+                     <l>Blazon the coat of your noble extraction and deſcent,</l>
+                     <l>That ſhe (as <hi>Bucephalus</hi> would admit of</l>
+                     <l>No rider but <hi>Alexander</hi>) ſhall ſuffer none</l>
+                     <l>To ride her but your ſelf.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eutrapel.</speaker>
+                     <l>Prithee then be ſpeedy, for I'm in ſuch haſt</l>
+                     <l>That I could willingly rid Poſt upon her,</l>
+                     <l>Which till you have accompliſht, farewel.</l>
+                     <stage>Exit Eutrapelus.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <l>Being he talks of riding Poſt, I hope my</l>
+                     <l>Siſter (if he marry her) will create him a</l>
+                     <l>Cuckold, and give him a Horn or two to blow.</l>
+                     <l>But here comes my unckle with my tutour;</l>
+                     <l>Be you gone <hi>Pege.</hi>
+                     </l>
+                     <stage>Exit Pege.</stage>
+                     <l>And I'le retire behind the hangings, and hear</l>
+                     <l>What commentaries they'l write upon my actions.</l>
+                  </sp>
+               </div>
+               <pb facs="tcp:95846:6"/>
+               <div n="2" type="scene">
+                  <head>ACT. 1. SCENE 2.</head>
+                  <stage>Enter Eugenes ſenior, Demoſthenes.</stage>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <l>DId ever <hi>Africa</hi> produce ſo ſtrange a monſter</l>
+                     <l>As my ungrateful Nephew? he is ingratitude</l>
+                     <l>In the abſtract; I brought him to the Colledge</l>
+                     <l>Thinking withal to bring him to my lure,</l>
+                     <l>And that hee'd readily perform what I enjoyn'd him;</l>
+                     <l>But ſince his moſt unfortunate arrival,</l>
+                     <l>Obedience to me is his ſmalleſt care;</l>
+                     <l>He performs my commands with the ſame willingneſs</l>
+                     <l>As heavy Bodies move from their own center,</l>
+                     <l>Or malefactors go to execution.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſthen.</speaker>
+                     <l>I am diſſolv'd in admiration at this news,</l>
+                     <l>For unto my commands he has been all obedience;</l>
+                     <l>I never read to Pupil yet which did receive the</l>
+                     <l>Dictates I inſtill'd into him with a more facile</l>
+                     <l>Promptneſs; what? has a got a pair of faces?</l>
+                     <l>Does one frown upon you with a contracted</l>
+                     <l>Supercilious brow? the other ſmile on me</l>
+                     <l>With a benigne and more placid aſpect?</l>
+                     <l>Is he made up of contradictions? this ſurfets</l>
+                     <l>My weak faith; I can't digeſt and thoroughly</l>
+                     <l>Concoct into a firm belief ſuch ſtrange impoſſibilities as theſe.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <l>Impoſſibilities? you'le then maintain him in's</l>
+                     <l>Rebellion, will you?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſth.</speaker>
+                     <l>You muſt remember (Sir) that youthful blood</l>
+                     <l>Is hot and fiery, and if you will be peeviſh</l>
+                     <l>And moroſe, and (Touch wood-like) receive ill</l>
+                     <l>Sparks of diſcontent it offers, you'l quickly be</l>
+                     <l>Reduc'd (to th' worſt of ills) Annihilation,</l>
+                     <l>And burnt to duſt and aſhes.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <l>Though youthful blood be hot,</l>
+                     <l>Yet it muſt be allay'd and cool'd by ſnowy age;</l>
+                     <l>And thoſe of elder years ought to reſtrain</l>
+                     <pb facs="tcp:95846:7"/>
+                     <l>It's violent and impetuous courſe.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſth.</speaker>
+                     <l>I, but with this caution and proviſo,</l>
+                     <l>That the reſtraint be not unſeaſonable:</l>
+                     <l>Tis a receiv'd opinion among Anatomiſts,</l>
+                     <l>That the ligature and binding of a member</l>
+                     <l>If ſeaſonably apply'd, preſerves the heart</l>
+                     <l>From violent influxes of the blood;</l>
+                     <l>But if the application be untimely, it cauſes</l>
+                     <l>Gangrenes and Haemorrhagies;</l>
+                     <l>So youthful blood if checkt unſeaſonably,</l>
+                     <l>Becomes more inſolent and impetuous, more vitiated and</l>
+                     <l>Corrupt, then if its natural courſe had not been hinder'd;</l>
+                     <l>The age of youth is the ſtrong Rein of</l>
+                     <l>Paſſion, and vice does ride in triumph</l>
+                     <l>Upon the wheeles of vehement deſire,</l>
+                     <l>Which run with infinite celerity</l>
+                     <l>When the Boy drives the chariot,</l>
+                     <l>They can't be ſtopped on a ſuddain,</l>
+                     <l>Art and deliberation muſt be us'd.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <l>I think you've enter'd a league with</l>
+                     <l>Your pupil to abet him in debauchery,</l>
+                     <l>And cloke his lewdneſs and wild rogueries;</l>
+                     <l>I am reſolv'd t' acquaint his father that</l>
+                     <l>You reſcue and protect him from my juſt</l>
+                     <l>Rage, you are his ſanctuary and Aſylum.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſth.</speaker>
+                     <l>Could you but view your ſelf now in</l>
+                     <l>A glaſs, and ſee how you're transform'd into</l>
+                     <l>A horrid monſter, how your lips ſhake and</l>
+                     <l>Tremble, your veins and arteries ſwell</l>
+                     <l>With th' inflammations of your furious blood,</l>
+                     <l>And your eyes ſparkle as if they were</l>
+                     <l>The onely ſeat of fire, and at each glance</l>
+                     <l>Would ſtart a Salamander by their</l>
+                     <l>Exceſſive heat; you would not (like <hi>Narciſſus</hi>)</l>
+                     <l>Be in the leaſt tranſported with the love</l>
+                     <l>Of your own perſon, but rather (like <hi>Actaeon</hi>)</l>
+                     <l>Stand amazed, when you perceive your ſelf</l>
+                     <pb facs="tcp:95846:7"/>
+                     <l>Transform'd into a beaſt by Paſſion;</l>
+                     <l>You would I'm ſure abhorre and hate your</l>
+                     <l>Self, worſe then you do or can your</l>
+                     <l>Nephew, pray then by patient.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <l>I'le make patience as great a ſtranger</l>
+                     <l>To my breaſt a a a as.—</l>
+                     <stage>He ſtammers and can go no further</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <stage>aſide.</stage>
+                     <l>To your breaſt a, a, a, as goodneſs</l>
+                     <l>For I never diſcover'd any in it yet:</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <l>O, now I have recover'd my loſt ſenſes;</l>
+                     <l>I mean Ile make patience as great a ſtranger</l>
+                     <l>To my breaſt, as I reſolve to make my Nephew to my love.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <stage>aſide.</stage>
+                     <l>A Pox choak you, ha' you hit it at laſt?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſth.</speaker>
+                     <l>O groundleſs and inveterate Hatred!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <l>Groundleſs? Groundleſs? are theſe the praecepts</l>
+                     <l>Of morality you inſtill into him? to teach him</l>
+                     <l>How to be rebellious? I'm ſorry I ſo much</l>
+                     <l>Diſparag'd my own judgement as to commit him</l>
+                     <l>To your care and charge: could you by</l>
+                     <l>Th' clue of truth dive into all his winding</l>
+                     <l>Labyrinths of impiety, you'd think him a worſe</l>
+                     <l>Monſter then the inhumane Minotaur,</l>
+                     <l>And hire another <hi>Theſeus</hi> to deſtroy him;</l>
+                     <l>You'd wiſh your ſelf all arm and weapon</l>
+                     <l>To cut him off: Ha you rogue!</l>
+                     <stage>Eugenes Junior diſcover'd peeping.</stage>
+                     <l>What? a ſecret auditor of our</l>
+                     <l>Diſcourſe? an Eveſdropper? you ſee my Short-hand</l>
+                     <l>Can ſufficiently write your Character,</l>
+                     <l>You've heard your own.</l>
+                     <stage>Eugenes Junior enters.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <l>Reverend and worthy Sir,</l>
+                     <stage>turning to Demoſt<g ref="char:EOLhyphen"/>henes his tutour.</stage>
+                     <l>It may perhaps ſeem ſtrange to you that</l>
+                     <l>Having a relation ſo near (I wiſh I could ſay</l>
+                     <l>Dear) unto me as an unckle preſent, I ſhould</l>
+                     <l>Addreſs my ſelf firſt unto you;</l>
+                     <l>But (Sir) hee's ſo deform'd and ſtrangely alter'd</l>
+                     <l>By his brutiſh paſſion, that I forget he is my</l>
+                     <l>Unckle, he makes me of <hi>Pythagoras</hi>'es Sect,</l>
+                     <l>And firmly to beleeve the ſouls of Brutes</l>
+                     <pb facs="tcp:95846:8"/>
+                     <l>Do by a tranſmigration animate and inform</l>
+                     <l>Our human bodies, as oft as I reflect upon</l>
+                     <l>His fierce and ſavage nature.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſthenes.</speaker>
+                     <l>But I ſhould have entertain'd better thoughts</l>
+                     <l>Of you, my <hi>Eugenes,</hi> had you firſt attempted</l>
+                     <l>To pacify your unckle, it may be though you now</l>
+                     <l>Stinck in his thoughts worſe then your excrement</l>
+                     <l>Would do in's noſe, and your memorial be to him</l>
+                     <l>As odious as ſwines fleſh to a Jew, yet by</l>
+                     <l>Your flowers of Rhetorick you might have</l>
+                     <l>Seemed ſweet again and pleaſant.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <l>I had as good go court the air, or plow the ſand,</l>
+                     <l>Sweet ſmells will make his head ake,</l>
+                     <l>And flowers of Rhetoricke would to him be</l>
+                     <l>As offenſive as perfumes are to thoſe who are</l>
+                     <l>Affected with fits of the Mother.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <l>Sirrah, for this your malepert and ſawcy</l>
+                     <l>Language, I'le make you troubl'd with fits</l>
+                     <l>Of the father, I'le lay your cloſe and ſecret</l>
+                     <l>Vices as open to him as is the Sun in's high</l>
+                     <l>Meridian at Noonday.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſth.</speaker>
+                     <l>Young <hi>Eugenes,</hi> I plainly ſee that you're become</l>
+                     <l>So odious to your Unckle, that if you do but ſpeak</l>
+                     <l>Or breath in's preſence, you'l kindle and enflame</l>
+                     <l>His hotteſt fury, wherefore avoid the room.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <l>I willingly ſubmit to your commands.</l>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <l>Could one blaſt of your mouth blow him away?</l>
+                     <l>I might have ſpent my lungs and ſworn at him</l>
+                     <l>Theſe two hours to be gone, and all in vain;</l>
+                     <l>And at one ſmall entreaty from your lips</l>
+                     <l>He vaniſhes, and flies like lightning.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſth.</speaker>
+                     <l>My charity prompts me (Sir) to think that</l>
+                     <l>He ſo far reſembles heaven, as rather to be</l>
+                     <l>Conquered by prayers then full-mouth'd oaths,</l>
+                     <l>You muſt uſe ſoft and downy words, if you</l>
+                     <l>Would break his flinty heart; I know him well.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <l>I wiſh hee'd know himſelf ſo well, or if he wont,</l>
+                     <pb facs="tcp:95846:8"/>
+                     <l>That I had never known him.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſt.</speaker>
+                     <l>Well, I'le go and ſift him thoroughly,</l>
+                     <l>I'le refine him I warrant you, and new mold him.</l>
+                  </sp>
+                  <stage>Exeunt both ſeverally</stage>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <l>Pray uſe your beſt endeavors, and adieu.</l>
+                  </sp>
+               </div>
+               <div n="3" type="scene">
+                  <head>ACT. 1. SCENE 3.</head>
+                  <stage>Morphe, Anaiskuntia, Eugenes Junior.</stage>
+                  <sp>
+                     <speaker>Morphe.</speaker>
+                     <l>I Wonder <hi>Anaiskuntia,</hi> that <hi>Eugenes</hi> has been</l>
+                     <l>So great a ſtranger to us.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Anaisk</speaker>
+                     <l>Madam, you muſt think, that Scholars are as</l>
+                     <l>Fickle and unconſtant in reading Ladies faces,</l>
+                     <l>As their bookes, they ſcarce have half peruſed one</l>
+                     <l>But they make ſcrutiny and enquiry after others,</l>
+                     <l>They ſeldom write one ſtyle, one language, long.</l>
+                     <l>They court Variety (the mother of Delight)</l>
+                     <l>As travellers that reſolve to put a girdle about</l>
+                     <l>The world, after they've view'd one fair</l>
+                     <l>And amiable place, paſs to another: So Scholars after they've</l>
+                     <l>caſt a ſlight and tranſparent glance on ſome tranſcendent face</l>
+                     <l>And orient Beauty, paſs on unto another;</l>
+                     <l>They would have as many Ladies to exerciſe</l>
+                     <l>Their Courtſhip on, as there are moneths; nay</l>
+                     <l>Weekes i'th' Almanack; and if a Lady would</l>
+                     <l>Give them content and ſatisfaction, ſhe muſt be forc'd</l>
+                     <l>To change her face, as often as the Moon does hers;</l>
+                     <l>They are delighted with the neweſt bookes,</l>
+                     <l>And chiefly, when they are in Sheetes,</l>
+                     <l>And till they firſt write in them, they'le never</l>
+                     <l>Binde 'um to themſelves in Matrimony (that excellent Cover)</l>
+                     <l>For Luſts deep characters and impreſſions.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mor.</speaker>
+                     <l>Fie upon you! does this diſcourſe</l>
+                     <l>Become one of your Sex?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <l>Of my Sex Madam? that's a frivolous queſtion:</l>
+                     <l>I know all Scholars humours as well as the</l>
+                     <l>Beſt Laundreſs of 'um all, I know 'um as well</l>
+                     <pb facs="tcp:95846:9"/>
+                     <l>As woman can know a man.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mor.</speaker>
+                     <l>How Impudence? you'le confeſs your ſelf</l>
+                     <l>A common proſtitute preſently? why wa'nt</l>
+                     <l>To purge the Students reins?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <l>Nay Madam, hold me excuſed there,</l>
+                     <l>Your Commentaries on my words tranſgreſs the bounds of</l>
+                     <l>Charity: for where I ſay I know 'um; I mean this onely,</l>
+                     <l>That they'le take cognizance and notice of me,</l>
+                     <l>Salute, embrace me when I meet 'um.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mor.</speaker>
+                     <l>You're in your old Bawdy tune again.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <l>You are too waggiſh Madam, and by too foul</l>
+                     <l>Interpretations of my words, ſtain my unſpotted innocence;</l>
+                     <l>When I vaunt, they'le embrace me</l>
+                     <l>My meaning's this, they'le kiſs, and a-la-mode</l>
+                     <l>Take me by th' hand: and if a ſorry kiſs be</l>
+                     <l>Thought ſufficient to chriſten women whores,</l>
+                     <l>They'd curſe their Deſtinies; and (as I've</l>
+                     <l>Heard ſome Scholars curſe <hi>Auguſtius</hi> for</l>
+                     <l>Publiſhing an Edict againſt kiſſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>g</l>
+                     <l>So ſhould I thoſe who dare denominate all</l>
+                     <l>As common ſtrumpets, who'le kiſs as cloſs as</l>
+                     <l>Cockles: you juſtly therefore may be tax'd</l>
+                     <l>With indiſcretion for catching at my words,</l>
+                     <l>For words they are but wind, and thoſe that</l>
+                     <l>Think to graſp the wind, you know the</l>
+                     <l>Proverb nominates indiſcreet.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mor.</speaker>
+                     <l>I'me ſure the Sages of the world thought otherwiſe,</l>
+                     <l>When they preſcrib'd us this experienc'd Axiom:</l>
+                     <l>A Bird is known by th' tune, a Beagle by</l>
+                     <l>His mouth, Man by his words;</l>
+                     <l>A ſtinking breath is not a ſurer ſymptom</l>
+                     <l>Of putred lungs, then an obſcene tongue of an</l>
+                     <l>Impure heart, 'twere better that clock (thy tongue)</l>
+                     <l>Would never ſtrike, except it were to better purpoſe,</l>
+                     <l>Then to excite and raiſe thy luſts; 'twere more</l>
+                     <l>Expedient that clapper ſhould ſtand ſtill, then</l>
+                     <pb facs="tcp:95846:9"/>
+                     <l>Eccho forth ſuch ſounds, which grate</l>
+                     <l>All neighboring ears; I prithee let it rather (like the</l>
+                     <l>Curfew Bell) warn thee to ſmother all the</l>
+                     <l>Sparks of fiery luſt; be ſilent, here's <hi>Eugenes,</hi>
+                     </l>
+                     <l>Sure tis his tread: how now <hi>Eugenes!</hi>
+                     </l>
+                     <stage>Enter Eugenes jun.</stage>
+                     <l>What new object have you found out of late to fix your</l>
+                     <l>Eyes upon, that you ſo ſeldom deign to viſit us?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eng. jun.</speaker>
+                     <l>Madam, I thank my ſtars I am not yet ſo barren,</l>
+                     <l>But I can coin i'th' mintage of my brain a plauſible</l>
+                     <l>Excuſe, and make it paſs for currant, by ſtamping</l>
+                     <l>It with th' impreſs of your divine Effigies;</l>
+                     <l>I thought my ſelf not Eagle-ey'd enough oft to</l>
+                     <l>Contemplate ſo bright a Sun; and though I often</l>
+                     <l>Threaten'd you many viſits, I was too much a</l>
+                     <l>Coward in my own thoughts to ſtand to what I had</l>
+                     <l>Determin'd, and not prove an apoſtate from my reſolutions.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mor.</speaker>
+                     <l>Fie <hi>Eugenes</hi> I you ſpeak too Scholar-like,</l>
+                     <l>I mean, you uſe too high Hyperbole's, to which</l>
+                     <l>My merits can bear no proportion:</l>
+                     <l>This too much favours of complement and flattery.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. jug.</speaker>
+                     <l>Madam, your merits are too high for me to</l>
+                     <l>Take their true and exact Altitude,</l>
+                     <l>I'm not Aſtronomer good enough to doe't.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mor.</speaker>
+                     <l>But <hi>Eugenes,</hi> pray' give me leave to turn Critick,</l>
+                     <l>And carp at your expreſſions; your plea you made</l>
+                     <l>For your long abſence from me was thus uſher'd in;</l>
+                     <l>You did pretend you dar'd not frequently</l>
+                     <l>Contemplate me, becauſe I was too bright a Sun;</l>
+                     <l>Tis ſtrange methinkes; for had you thought me ſo,</l>
+                     <l>You would have ſupplicated and humbly requeſted</l>
+                     <l>Me to ſhine upon you with a benign ſmiling</l>
+                     <l>Influence, and if I ſhould be maskt or hooded,</l>
+                     <l>You'd pray me to diſperſe thoſe ſable clouds</l>
+                     <l>With my bright rayes, that you might ſee your long</l>
+                     <l>Deſired Sun, and then you'd ſolemnly proteſt,</l>
+                     <l>That I create bright days when I appear</l>
+                     <pb facs="tcp:95846:10"/>
+                     <l>With beames diſplayed in your Hemiſphere.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. jun.</speaker>
+                     <l>Madam, ſince you are pleas'd to cenſure me</l>
+                     <l>As a delinquent, I am content to ſtand to</l>
+                     <l>Your determinations; but yet my error is ſo</l>
+                     <l>Sweet and pleaſing to me, that I muſt court it</l>
+                     <l>And continue in it, and as before I nominated</l>
+                     <l>You my Bright and glorious Sun, now (Perſian-like)</l>
+                     <l>I will adore your beauties orient ſplendour:</l>
+                     <l>And as thoſe Perſians did conſecrate and ſacrifice</l>
+                     <l>A horſe unto their Sun.—</l>
+                  </sp>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <stage>aſide.</stage>
+                     <l>(You'le conſecrate an aſs? your ſelf? will you?)</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. jun.</speaker>
+                     <l>As a true Emblem, of their devotion's winged</l>
+                     <l>Speed and ſwiftneſs, ſo will I ſacrifice my</l>
+                     <l>Paegaſus (the Muſes horſe) unto your ſervice,</l>
+                     <l>I'le compoſe Panegyrickes on your praiſe,</l>
+                     <l>And make my Muſe your Waiting woman,</l>
+                     <l>As here I do my ſelf your humble and devoted ſervant.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mor.</speaker>
+                     <l>Sir, I had rather you would make any thing</l>
+                     <l>The ſubject of your diſcourſe, then my commendation.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. jun.</speaker>
+                     <l>Now Madam, I'me your vaſſal more then</l>
+                     <l>Ever, you've captivated all my faculties,</l>
+                     <l>And made me wholly yours. I cannot but</l>
+                     <l>Highly applaud this your ſo politick ſtratagem</l>
+                     <l>To level my too rowring and aſpiring thoughts,</l>
+                     <l>In daring to make you the ſubject of my weak</l>
+                     <l>And faint Encomiums, who are Queen Regent</l>
+                     <l>Of Beauty, Vertue, and other excellent</l>
+                     <l>Perfections, which (though but ſcatter'd and</l>
+                     <l>Diſpers'd to other Ladies) are all united and combin'd in you,</l>
+                  </sp>
+                  <sp>
+                     <speaker>Mor.</speaker>
+                     <l>Well <hi>Eugenes,</hi> give a <hi>Superſedeas</hi> to complements,</l>
+                     <l>The clock has ſpoke nine times, to advertiſe you</l>
+                     <l>That you muſt retire to Colledge, it ſtands</l>
+                     <l>Not with my reputation or with yours</l>
+                     <l>That you ſhould be detain'd here</l>
+                     <l>At ſo unſeaſonable an hour as this, and therefore I muſt</l>
+                     <l>Crave your pardon, as well for this my own abrupt</l>
+                     <l>Departure, as for deſiring yours.</l>
+                  </sp>
+                  <stage>Exit with Anaiskuntia. Eug. jun.</stage>
+                  <pb facs="tcp:95846:10"/>
+                  <sp>
+                     <speaker>Jun. jun.</speaker>
+                     <l>Guard her you Powers above,</l>
+                     <l>Let no diſtracting ghaſtly dream dare to</l>
+                     <l>Aſſault or diſcompoſe her divine ſoul;</l>
+                     <l>Let her bed ſeem as ſoft as any ſummers</l>
+                     <l>Cloud, that it may eaſe her ſofter limbs,</l>
+                     <l>And if (as th' Heliotrope her leaves unto the Sun)</l>
+                     <l>She open and diſplayes them in her dreams;</l>
+                     <l>O let her be quite raviſht with delight,</l>
+                     <l>And plung'd into a gentle extaſy of pleaſant</l>
+                     <l>Raptures; that when ſhe wakes from that</l>
+                     <l>Sweet Antepaſt of heavenly bliſs, ſhe</l>
+                     <l>May deſire real fruitions of that pleaſure</l>
+                     <l>Which ſhe but in a dream enjoy'd.</l>
+                  </sp>
+                  <stage>Exit.</stage>
+               </div>
+               <div n="4" type="scene">
+                  <head>ACT. 1. SCENE 4.</head>
+                  <stage>Two Scholars (in tatter'd gownes,) Aphobos, Anaiskuntia.</stage>
+                  <sp>
+                     <speaker>1 <hi>Schol.</hi>
+                     </speaker>
+                     <l>BUt <hi>Aphobus,</hi> is ſhe ſuch a merry jeering</l>
+                     <l>Laſs as thou proclaim'ſt her?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aph.</speaker>
+                     <l>Jeering! Her jeers like Aquafortis, will</l>
+                     <l>Eat thorough any thing, they'le penetrate</l>
+                     <l>Your very heart: ſhee'le never ſhow her</l>
+                     <l>Teeth and laugh at you, but ſhee'le be ſure</l>
+                     <l>To bite, and that is as bad, as when thou art</l>
+                     <l>Beſieg'd with all thy troopes of vermin</l>
+                     <l>Muſter'd together and united: ſhe's a</l>
+                     <l>Very Badger in the Art of jereing, and never</l>
+                     <l>Bites, but ſhe will make her grinders meet:</l>
+                     <l>Take heed you don't provoke her till ſhe falls foul upon you.</l>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Schol.</hi>
+                     </speaker>
+                     <l>She ſhall fall foul upon me, if ſhe'l but</l>
+                     <l>Let me fall foul upon her, nay if ſhe'l.</l>
+                     <l>But permit me to give her a fair fall</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <l>If thou ſhouldſt once fall upon her, though</l>
+                     <l>Never ſo fairly, thou'dſt come but fouly off,</l>
+                     <l>Thou'dſt ſcarce get up again, thy nerves</l>
+                     <l>Would be ſo empty and invalid;</l>
+                     <pb facs="tcp:95846:11"/>
+                     <l>Faith here ſhe comes; now you Rogues quake</l>
+                     <l>And run like <hi>London</hi> Train-bands when the</l>
+                     <l>Phanaticks were in armes.</l>
+                  </sp>
+                  <stage>Enter Anaiskuntia.</stage>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <l>What gibbet have you robb'd <hi>Aphobos,</hi> for theſe</l>
+                     <l>Gentlemen of the ragged regiment? they are as maigre</l>
+                     <l>As if they had been hung ſix moneths at Tiburn,</l>
+                     <l>Turn'd round with every puff of wind, and then cut</l>
+                     <l>Down to be hung up again for Skeletons;</l>
+                     <l>How their raggs hang about 'um, deliberating</l>
+                     <l>Whether they ſhould drop off or no; what have</l>
+                     <l>They robb'd ſome Papermils lately? confeſs ingenouſly,</l>
+                     <l>There's no danger of their being hang'd for't,</l>
+                     <l>For both their cloths and joynts are now ſo rotten,</l>
+                     <l>They cannot hang together; they look as if</l>
+                     <l>They were out of joynt, ſeem as pellucid as glaſs,</l>
+                     <l>And no leſs brittle; and fall would break 'um all to pieces.</l>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Schol.</hi>
+                     </speaker>
+                     <l>If you pleaſe Lady, I'le venture a fall with you.</l>
+                     <l>Me thinks I can as well endure one, as your crackt</l>
+                     <l>Chamber-maid-ſhip.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <l>Sir, I believe you would recant your challenge,</l>
+                     <l>And (as you may well for Hunger) eat your</l>
+                     <l>Words, if that you fell not ſoft and upon me,</l>
+                     <l>Nay, and then too, I beleeve you would if not break all</l>
+                     <l>Your bones, yet break your back:</l>
+                     <l>But I pray' <hi>Aphobos</hi> upon what adventure</l>
+                     <l>Are you come? you are Night Rablers I ſuppoſe,</l>
+                     <l>Or (in better terms) you're a knight Errant,</l>
+                     <l>And theſe two your Squires.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <l>True Lady.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <l>Methinkes they are in a mean Livery.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <l>Their old rags (Lady) are badges of Honor:</l>
+                     <l>A Coat of Armes the older tis and plainer,</l>
+                     <l>Tis the more honourable; their habit does</l>
+                     <l>Declare unto the world that they have been</l>
+                     <l>In hot and furious skirmiſhes, they are ſo</l>
+                     <l>Slaſht and cut.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <l>I ſuſpect <hi>Aphobos,</hi> that (like degenerate Cowards</l>
+                     <pb facs="tcp:95846:11"/>
+                     <l>Which rob themſelves and falſly ſue the countrey)</l>
+                     <l>They pretend to have 'ought invincibly,</l>
+                     <l>When they dar'd as ſoon run into a ſcabberd</l>
+                     <l>As draw a ſword: they look't as if they' had</l>
+                     <l>Broken priſon, and being eagerly perſu'd,</l>
+                     <l>By the aſſiſtance of their rotten clothes, made</l>
+                     <l>Their eſcape, leaving a ſleeve in one mans hand,</l>
+                     <l>And a remnant of their breeches in anothers,</l>
+                     <l>There's not a Tenter-hook (Ile warrant) in the</l>
+                     <l>Street, but weares their Livery.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <l>I muſt confeſs Lady, they are the ſtouteſt</l>
+                     <l>Combatants in Cupids camp, they vaunt</l>
+                     <l>That then they are invincible.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <l>Invincible? I'le undertake that one weak</l>
+                     <l>Silly woman ſhall cool their courage.</l>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Schol.</hi>
+                     </speaker>
+                     <l>No Lady, Women are rather apt to heat</l>
+                     <l>Then cool us, they are as hot as <hi>Hecuba</hi>
+                     </l>
+                     <l>Who (as the Poets tell us) was delivered</l>
+                     <l>Of a Firebrand: theſe <hi>Helenaes</hi> are hot enough</l>
+                     <l>To burn all <hi>Troy;</hi> they don't (like glow-worms)</l>
+                     <l>Carry a ſeeming heat, nor are ſo cool as <hi>Cynthia</hi>
+                     </l>
+                     <l>Was when ſhe embrac'd <hi>Endymion;</hi>
+                     </l>
+                     <l>But they that touch 'um, finde that entertainment</l>
+                     <l>The Satyre did, who kiſs't the fiery coal,</l>
+                     <l>They're ſoundly burnt for't.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <l>Nay, and we're cool too Sir, but then</l>
+                     <l>(Like ſnow) though cool at firſt, we burn</l>
+                     <l>More vehemently with an after Clap.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <l>Though you burn n'ere ſo much, yet I'me</l>
+                     <l>As cool as any Salamander, and love to dwell</l>
+                     <l>In your hot flames, I can and dare</l>
+                     <l>By your permiſſion and leave,</l>
+                     <l>Inhabit your moſt Torrid Zone.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <l>I'm not as yet diſpoſ'd to make it habitable,</l>
+                     <l>I will not yet untye my virgin Zone.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <l>You unty it? No Lady, I'le ſave you that labour,</l>
+                     <l>I'le (as <hi>Alexander</hi> did the Gordion knot) either unty, or cut it.</l>
+                  </sp>
+                  <pb facs="tcp:95846:12"/>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <p>Are you ſo ſharp ſet i' faith, then I leave you, I dare not meddle with Edge-tooles.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>That's huge pity, you're good fleſh, and fit to be cut up, Ile warrant you as tender as a <hi>London</hi> Pullet, and no leſs full of juice and gravey.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <p>If you intend to make me your Pullet, and cut me up, you muſt not be a Capon in performance.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>Lady, I'le tread you as well as ever Cock trod Hen, I'le make you quickly big with egge.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <p>Then you muſt firſt eat egges your ſelf to make you vigorous and active.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>I am a too high mettall'd nag to need ſuch helps and ſpurs, or want ſuch incitements.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <p>But Gentlemen, the day appears, and (the Suns Har<g ref="char:EOLhyphen"/>binger) the morning Star twinckles, and winks upon me to retire unto my Ladies chamber, leſt this my abſence be diſco<g ref="char:EOLhyphen"/>ver'd to her, for this time therefore I'le bid you Adieu.</p>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>Come my Boys, wee'l ſcale the Colledge walls, take an hours Nap upon our Beds, and then to Chappel, where</p>
+                     <lg>
+                        <l>That our vagaries be conceal'd, we'l pray,</l>
+                        <l>Whilſt we by Night do ramble, ſleep by Day.</l>
+                     </lg>
+                  </sp>
+               </div>
+               <div n="5" type="scene">
+                  <head>ACT. 1. SCENE 5.</head>
+                  <stage>Eugen. Sen. Eugenes Juniors father, Eugenes Junior.</stage>
+                  <sp>
+                     <speaker>Eug. Jun. fath.</speaker>
+                     <p>I'M plunged in amazement at th' Relation of my rebellious ſons behaviour; he ſtands eter<g ref="char:EOLhyphen"/>nally oblig'd to you for making him a member of that Colledge whereof you're Head and Preſident, what dares he ſcratch his head? or make it ake, by his ill qualities and corrupted hu<g ref="char:EOLhyphen"/>mours? I ſhould extremly doubt whether he were my lawful iſſue, or ſome ignoble ſpurious By-Blow, were I not well aſ<g ref="char:EOLhyphen"/>ſur'd of's Mother obſtinate and invincible Chaſtity, who though ſhe was in her yong days, a beautiful and comely <hi>Venus,</hi> and therefore might excite ill motions in all her Beholders, yet was ſhe too chaſte a <hi>Diana,</hi> and awfully cooled and diſcoun<g ref="char:EOLhyphen"/>tenanc'd 'um; no ſooner, were they raiſ'd, but ſhe ſtanding
+<pb facs="tcp:95846:12"/>i'th circle of her many vertues, conjur'd 'um down again.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <p>To open my mind plainly to you; hee's an uſe<g ref="char:EOLhyphen"/>leſs, nay a dangerous member, and if he be'n't lopt off, tis to be fear'd hee'l corrupt others of the Body of our Society; hee's turn'd a Rambler; I'm in ſuſpence, whether I ſhall expel him, or try him further.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. J. fath.</speaker>
+                     <p>Pray' Brother bee'nt ſo far tranſported with your Paſſion, as to proceed to that extremity of rigor.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <p>I ſummon'd him t' appear in's own defence, &amp; advertis'd him too, that you'd be here; O here he is. <stage>En. Jun. Jun.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun. fath.</speaker>
+                     <p>Ha thou ungracious villain! what? turn'd Night-bird? and, when you ſhould be in your neſt, or (which I'de rather) at your ſtudy, muſt you be flying after Ladybirds? I'le clip your wings I' faith: I'le put a-ne-plus-ultra to your rambles, I know of 'um all.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>I beleeve (Sir) you know of more then I do.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. J. fath.</speaker>
+                     <p>That's very probable; for, your too liberally quafft off bowles of liquor (like <hi>Lethe</hi> water) have waſht their memory out off your head; your un<g ref="char:EOLhyphen"/>derſtanding's light is clouded and obſcur'd by your black deeds, and works of Darkneſs; you have ecclips'd its wonted ſplen<g ref="char:EOLhyphen"/>dour: on what night I pray' ſir, held you your laſt Rendezvouz?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. J.</speaker>
+                     <p>Tis ſo long ſince ſir, I have quite forgot it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun. fath.</speaker>
+                     <p>What? your Travels and rambles were ſo long? that (as Sir <hi>Francis Drake</hi> in's travels loſt a day) ſo you have loſt a night? you have forgot it (forſooth?)</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen. weeps.</speaker>
+                     <p>Sir, ſhould I ſteep theſe words in crocodi<g ref="char:EOLhyphen"/>les and a tificial tears ſcru'd from my eyes, they could not chal<g ref="char:EOLhyphen"/>lenge your belief, and ſo I ſhould be in deſpair firſt of your audience, and then of pardon; but (Sir) my innocence, which is as pure as that of Babes, when newly waſht from their ori<g ref="char:EOLhyphen"/>ginal ſtain, keeps me from ſinking in this deluge of profound miſery.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <p>O Sir, you are he that ſtickl'd not to ſay, Sweet ſmells would make my head ake, but I think now, I've made your heart ake for't. Theſe tears of yours I hope will make ſome ſeeds of virtue but forth apace, and cauſe you to grow better as well as bigger, like <hi>April</hi> ſhowres they may produce thoſe flowers (of Rhetorick) which you lately told me, would
+<pb facs="tcp:95846:13"/>be offenſive to me; I hope your tears won't (like thoſe drops of rain which fall near the Line,) leave a corrupt ſteam behind 'um: now whilſt they are in motion, and trickle down your roſy cheekes, they're ſweeter then Roſe-water to my ſenſe; O that it rain'd thus ſweetly all the year! then, then, it may be ſome ſeeds of obedience, might grow with your rebellious weeds.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>Know ſir, that though a fathers awful anger can open all the flood-gates of my eyes, yet I like <hi>April</hi> can look clear and merrily, <stage>wipes his face and laughs'.</stage> as well as weep; I ſtill can laugh at you, whilſt I behold your Rainbow eyes, tis time for me to ceaſe from raining ſhowres of tears.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. J. fath.</speaker>
+                     <p>O horrid! I can't hear this, and bear it, farewel brother for a while <stage>turns to his Son.</stage> I muſt be gone, I muſt avoid the place, <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> But you for your part, never ſee my face.</p>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <p>Do you ſee ſir, how you have frighted away your fa<g ref="char:EOLhyphen"/>ther with your rebellious practiſes?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>No ſir, tis rather you have don't; he took you for ſome ſavage beaſt, ſome mad and furious dog, and thought you'd worry him, as y' have done me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <p>Sirrah, if you intend to keep ſtill in the Colledge, keep in your tongue.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>I will not, can<g ref="char:EOLhyphen"/>not do it; ſhould you ſerve me as th' tyrant <hi>Tereus</hi> ſerved <hi>Phi<g ref="char:EOLhyphen"/>lomel,</hi> and cut it out, I'de uſe ſome other art to vent my fury, I'de write it in your blood; I ſhould be happier, were I out o'th' Colledge, as long as you are in't: If you continue in, out I muſt go, <gap reason="blank" extent="1 word">
+                           <desc> _____ </desc>
+                        </gap> I can't cohabit with a mortal foe.</p>
+                  </sp>
+                  <stage>Exit Eug. J.</stage>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <p>Oh! how I burn with raging fury! how ſharp a Paroxyſm of feaveriſh Paſſion does affect me? it can't be cur'd but by (that cooling Remedy) Moderation, which yet has never dwelt within this ſo hot Climate of my Breaſt; when <hi>Hercules</hi> was clad with th' Centaures coat, he could not feel ſuch vehe<g ref="char:EOLhyphen"/>ment flames; I have a Hell within me, and the heat of my Paſſion's as unquenchable; my ſtrong affections have (like <hi>Phae<g ref="char:EOLhyphen"/>tons</hi> wild Courſers) enflam'd my little world of Man, my Mi<g ref="char:EOLhyphen"/>crocoſm; my ſoul muſt change her lodging, and leave this earth<g ref="char:EOLhyphen"/>ly Vehicle my Body, to cool her ſelf i'th' bleſt Elyſian ſhades;
+<pb facs="tcp:95846:13"/>like flame-eructing <hi>Aetna,</hi> I belch forch fire: well, I'le retire and read a Lecture of <hi>Philoſophy</hi> to conjure down this Devil, Paſ<g ref="char:EOLhyphen"/>ſion.</p>
+                  </sp>
+                  <stage>Exit.</stage>
+               </div>
+               <div n="6" type="scene">
+                  <head>ACT. I. SCENE 6.</head>
+                  <stage>Demoſthenes, Philos.</stage>
+                  <sp>
+                     <speaker>Demoſth.</speaker>
+                     <p>YOu acted indiſcreetly <hi>(Philos)</hi> thus to betray yong <hi>Eu<g ref="char:EOLhyphen"/>genes</hi> rambles to his unckle; you know there ever have been private feuds and diſcontents betwixt 'um; thorough's unckles meanes, his father has with drawn moſt of 's allowance, he water'd him before with ſmall and inconſiderable drops, from's gol<g ref="char:EOLhyphen"/>den river; and they came from him, like ſo many drops of blood; and if he ſhould (as certainly he will) hear once of this miſcarriage, hee'l utterly diſcard him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Philos.</speaker>
+                     <p>I acted (I'le aſſure you) on good an a honeſt principles, not out of malice to his Nephew; I onely aſcertain'd him in ge<g ref="char:EOLhyphen"/>neral, that his nephew frequented Ladies company, and was no leſs brought up in <hi>Cupids</hi> Academy, then in ours; that he lov'd to taſt the Marmala de of a Ladies lips, was equally delighted with the roſes of their cheeks, and with the Lillies of their hands, he lov'd to rob the pleaſant Garden of a Ladies face, gather the cherries of her lips, the bluſhing red-cheekt apples of her cheekes, handle her azure veines like violets, or that hee'd walk about with a ſhe-Hawk on's fiſt, and lov'd to bring her to his lure: what harm was there in this?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſth.</speaker>
+                     <p>If it had been to one, not biaſs'd with Paſſion and pre<g ref="char:EOLhyphen"/>judice, there had been none; but in betraying it to ſuch a one, as he is, you have betray'd your weakneſs: had you acquainted me alone with his defects and errours, I would with greater lenity, and to better effect, have attempted to reform 'um.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Philos.</speaker>
+                     <p>Well <hi>Demoſthenes,</hi> words have wings, and, as ſoon as (their Cage) the mouth is open'd, out they fly, and mount beyond our reach and paſt recovery; like lightning, they can't be ſtopt, but break their paſſage th'rough the ſmalleſt cranies, and penetrate ſometimes the thickeſt walls; their nature's as expanſive as the Light, like Sun beames they are darted many miles from their firſt ſource; but I'le aſſure you, for the future if I obtain more cogni<g ref="char:EOLhyphen"/>zance
+<pb facs="tcp:95846:14"/>of his actions, before his unckle I'le be as ſilent, ſecret, as the Night, and cloke his actions with obſcurity; but to you, Ile open and reveal 'um all, I'le be as clear as day; I'le draw them in a line from the Circumference of my mouth unto your ear, as to their center, where I am ſure they'le reſt, and go no further. I know old <hi>Eugenes</hi> is preſently incenſ'd at every petty peccadilio, I'le always therefore make him ſtranger to my thoughts, in mat<g ref="char:EOLhyphen"/>ters of this importance.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſth.</speaker>
+                     <p>Be ſure you're conſtant to your words, in the interim I'le go in and give him ſome good counſel.</p>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Philos.</speaker>
+                     <p>'Tis true, I can't deny, but I love old <hi>Eugenes</hi> unfeigned<g ref="char:EOLhyphen"/>ly; but I ſhall be a torment to him, if I diſcover his Nephews vices to him any more; a whiſperer, and informer, is an odious crea<g ref="char:EOLhyphen"/>ture, I ſhall abhorre my ſelf, if I don't ſpeedily forſake theſe pra<g ref="char:EOLhyphen"/>ctiſes, all whiſpering winds are uſually fore-runners of a ſtorm, I'le not (like a Fly) be always buzzing in old <hi>Eugenes</hi> ears, I ſhall cor<g ref="char:EOLhyphen"/>rupt 'um; I'le ſeek him out, and unravel all that I have done, I'le make his nephew maſter again of his affections.</p>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <trailer>Finis Actus primi.</trailer>
+               </div>
+            </div>
+            <div n="2" type="act">
+               <head>ACT. 2.</head>
+               <div n="1" type="scene">
+                  <head>SCENE 1.</head>
+                  <stage>Eugenes Jun. Eugeneia, <g ref="char:V">Ʋ</g>perephania.</stage>
+                  <sp>
+                     <speaker>Eugeneia.</speaker>
+                     <p>BRother, I wonder you ſhould be ſo importunate in the ſuit of that ſame Cock-brain'd fellow <hi>Eutrape<g ref="char:EOLhyphen"/>lus,</hi> he is compos'd of levity, I dare not ſpeak a ſyllable, but hee'l convert it to his own advantage, hee'l ſometimes make ſuch uſe of all my anſwers, that I ſhall ſeem rather to court his fool-ſhip, then he to offer's Courtſhip unto me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>Siſter, though he is light himſelf, yet he has ſtore of heavy gold; which is as ſparkling as his wit; Ile warrant, hee'l protract, and certainly produce your lifes ſmall thread to the dura<g ref="char:EOLhyphen"/>tion of ſeven years longer; hee'le tickle your ears with wit, as well as ſomething elſe with genial pleaſures: beſides, he does derive his pedigree from many anicent and noble families.</p>
+                  </sp>
+                  <sp>
+                     <speaker>
+                        <g ref="char:V">Ʋ</g>pereph.</speaker>
+                     <p>Yes I beleeve he can derive it as far, as from <hi>Wil. Som<g ref="char:EOLhyphen"/>mers</hi> King <hi>Henry</hi> the 8<hi rend="sup">th</hi>s fool, <hi>Scoggin</hi> the Jeſter, or the wiſe men of <hi>Goatam,</hi> I beleeve his pedigree is ancient, for his coat he wears,
+<pb facs="tcp:95846:14"/>is old, and plain enough, and may be blazon'd with 12 Lice Ram<g ref="char:EOLhyphen"/>pant in the field Or of his yellow skin, his creſt, is a Cocks-comb, for if there be one in the world, tis he.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eugeneia.</speaker>
+                     <p>Dy' hear how admirably ſhe blazons his Coat?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>Hang her jade, becauſe ſhe wears an ugly vizard her ſelf, and frights men from being her ſervants, and is conſtrain'd to walk alone, whiſp'ring her ſelf away, ſhee'd draw other proſe<g ref="char:EOLhyphen"/>lites to her religion, ſhee'd have all turn Nuns, and be confined to a Cloyſter, and (with her Ladyſhips Apes face) lead apes in hell.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eugeneia.</speaker>
+                     <p>But Brother, I've heard you often talk how the Ro<g ref="char:EOLhyphen"/>mans conferred certain dignities on veſtal virgins, who kept their virgin fruits pure and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ngather'd.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>But yet the num<g ref="char:EOLhyphen"/>ber of thoſe veſtals was but ſmall, the dignities and priviledges which they enjoy'd, were onely theſe, that they in ſtate were ren<g ref="char:EOLhyphen"/>der'd equal to married wives.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eugeneia.</speaker>
+                     <p>But, what if I have ſolemnely proteſted to live and dye a virgin?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>Then you muſt as ſolemnly break that oath; ſuch temerarious and imprudent vows are better broke then kept; for none can by an ordinary way perceive, whether they have that ſpecial gift of continency, as to be able to live and die unmarri'd; what woman hath ſo ſail'd about the world of her own heart, ſounded each creek, ſurvey'd each corner, but that ſtill there may remain much <hi>Terra Incognita</hi> to her ſelf; beſides concupiſcences too much reſtrain'd, will ſwell the more, had <hi>Danae</hi> not been kept b'a brazen door, ſh' had dy'd a harmleſs Virgin, not a whore.</p>
+                  </sp>
+                  <sp>
+                     <speaker>
+                        <g ref="char:V">Ʋ</g>perephan.</speaker>
+                     <p>Madam, I hope you'le not be guilty of foul perjury, what you have vow'd, perform; ne're be confin'd to one mans humours. Be ſtill as free as your unlimited thoughts.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>Out! you laſcivious quean; becauſe you're not your ſelf content to be confined to one man, would you diſſwade her from it? would you have your miſtreſs like your ſelf? as com<g ref="char:EOLhyphen"/>mon as the Sea, as Air, and no leſs light; would you have her let all Night-birds build their neſts in her thick Buſh? and make her ſelf a Warehouſe for all ſorts of Commodities? a Publican to re<g ref="char:EOLhyphen"/>ceive all Tribute ſhe can get? you'd have as many men (it may be) to gratify (I can't ſay) ſatisfy your luſt, as the great Turk has wo<g ref="char:EOLhyphen"/>men in's Seraglio; you cannot feed upon one ſort of fleſh, you muſt be pamper'd with variety.</p>
+                  </sp>
+                  <pb facs="tcp:95846:15"/>
+                  <sp>
+                     <speaker>
+                        <g ref="char:V">Ʋ</g>perephan.</speaker>
+                     <p>You'r miſtaken Sir in me; I'm not ſo weary of my life, or ſo well prepar'd to die, as to deſire yet to be preſs't to death by any man, I'le firſt be hanged.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>Hang y'u Jade, but then you'l chooſe your gallows. The door is open and invites you to go out, your abſence at this time will be to us more acceptable then your preſence, for here comes merry <hi>Eutrapelus.</hi> You'l ſpoil his ſport if you ſtay here.</p>
+                  </sp>
+                  <sp>
+                     <speaker>
+                        <g ref="char:V">Ʋ</g>perephan.</speaker>
+                     <p>I'le make no longer ſtay then, but yet I am reſolv'd to make my Miſtriſs (<hi>Penelope</hi>-like) unravel all by night <hi>Eutrapelus</hi> does by day. I'le make men know (let 'um do what they can) A woman can perſiſt to hate a man.</p>
+                  </sp>
+                  <stage>Exit.</stage>
+               </div>
+               <div n="2" type="scene">
+                  <head>ACT. 2. SCENE 2.</head>
+                  <stage>Manent Eugenes J. Eugeneia, Enter Eutrapelus.</stage>
+                  <sp>
+                     <speaker>Eug. Jun</speaker>
+                     <p>YOu'r welcome to me my <hi>Eutrapelus,</hi> your company makes me happy.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eutrap.</speaker>
+                     <p>Thanks Noble <hi>Euge<g ref="char:EOLhyphen"/>nes;</hi> but yet I ſhould be ſwell'd with bigger, and more large con<g ref="char:EOLhyphen"/>ceptions of my worth, if I were thought ſo by the fair <hi>Eugeneia;</hi> could I but merit one ſmile of hers, I'de wracke my braines, and cauſe each ventricle thereof to be in labour for a jeſt, and they ſhould firſt conceive, and then bring forth all their conceits.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eugeneia.</speaker>
+                     <p>Sir, your merits ſound ſo loud in each expreſſion of my brothers, that they require that portion of reſpect which other<g ref="char:EOLhyphen"/>wiſe I ſhould deny you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eutrapel.</speaker>
+                     <p>Madam, I ſhould be bleſs't for ever, if their ſound ſhould prove harmonious, and make good muſick in your ears; or, like the pleaſant layes of <hi>Orpheus,</hi> attract all things and ſexes after 'um, and (more peculiarly) your ſacred ſelf.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eugeneia.</speaker>
+                     <p>Sir, now you are a Note too high, you'l over<g ref="char:EOLhyphen"/>ſtrain your voice in canting forth your own deſerts, this is the way to raiſe a diſcord between you, and your beſt friends.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eutrap.</speaker>
+                     <p>T'has been obſerv'd that diſcord makes the ſweeteſt Harmony: but yet becauſe I may not ſeem a Schiſmatick in love, I'me for a perfect union, wee'le (if you pleaſe) concorporate, wee'le make up a complete Hermaphrodite, and be inſeparably glu'd together, and when we're met we'el ſtick ſo cloſe, that no<g ref="char:EOLhyphen"/>thing but omnipotence it ſelf ſhall ever Divorce us from our nup<g ref="char:EOLhyphen"/>tial pleaſures.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eugeneia.</speaker>
+                     <p>
+                        <hi>Rome</hi> was not built (Sir) in a day, and
+<pb facs="tcp:95846:15"/>things of ſo great conſequence as marriage, are not to be reſolv'd on in a minute, this ordinance (like the laws o'th' <hi>Medes</hi> and <hi>Per<g ref="char:EOLhyphen"/>ſians</hi>) is unchangeable, what is once done heer and concluded on, can never be unravell'd or undone.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eutrap.</speaker>
+                     <p>Fear not undoing Madam, for we'el be always do<g ref="char:EOLhyphen"/>ing, when we're marri'd; I'le always be in Action; and if this ſuite prevaile with you, Ile then clap action upon you after action, Ile firſt arreſt you in your bed, and n'ere be nonſuited in <hi>Cupids</hi> Court, till my endeavours for an heir obtain a happy iſſue; pray give your verdict (Madam) in this caſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eugeneia.</speaker>
+                     <p>My verdict ſir is this, that you are non-ſuited in the court of my affections, your plea can't any more be heard, you've loſt your ſuite, your Rights and titles, to make me your Tene<g ref="char:EOLhyphen"/>ment, are forfeited.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eutrap.</speaker>
+                     <p>Then, Madam, I'le renew my ſuite, and make your Brother my advocate in this cauſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eugeneia.</speaker>
+                     <p>Hee'l take Bribes Sir, and therefore (like a common Barreter) he ſhall obtain no audience, Ile therefore now adjourn Great <hi>Cupids</hi> Court, and put a period to your amorous ſport;</p>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Eutrap.</speaker>
+                     <p>Don't I look ſimply <hi>Eugenes?</hi> and ſeem in as deplorable a ſtate, as a young heir beſet with Serjeants? When the large ſails of's Debts are ready to ſink and over-whelm the ſmall Bark of his poor eſtate; <hi>Marſy</hi> as (after <hi>Apollo</hi> flead him) ne're look't ſo ſimply, if he did, Ile be flead; Ile undertake a whole Nights lodging, and hard Jobb-Journey-workes of darkneſs, would not have cool'd my courage, as this repulſe has done; ſh' has made my eyes as hollow as her heart.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>I took thee not <hi>(Eutrapelus)</hi> for ſo notorious a Co<g ref="char:EOLhyphen"/>ward, as to be daunted with the firſt denial,</p>
+                     <lg>
+                        <l>Take thou but Courage, and be bold, my Boy,</l>
+                        <l>And all thy grief ſhall terminate in joy,</l>
+                        <l>Coward ne're won fair Lady, ſtand this ſhock,</l>
+                        <l>And thou ſhalt have her in a ſurer Lock.</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Eutrap.</speaker>
+                     <p>I wiſh I had her in ſo ſure a Lock, as to give her a fall, and then, I'de make her belly riſe before her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>Take heed that (like <hi>Antaeus</hi>) ſhe grow not ſtronger by her fall, and getting up before you, throw you off for ever. But I muſt crave your abſence for a while, each minute I expect my tutour.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eutrap.</speaker>
+                     <p>Ile be gone then I faith, leaſt if he finde us here
+<pb facs="tcp:95846:16"/>together, he ſhould read us a Juniper or Crabtree lecture;</p>
+                  </sp>
+                  <stage>Exit Eu.</stage>
+               </div>
+               <div n="3" type="scene">
+                  <head>ACT. 2. SCENE 3.</head>
+                  <stage>Eugenes Junior, Demoſthenes.</stage>
+                  <sp>
+                     <speaker>Eug. J.</speaker>
+                     <p>ODs' ſo, here he comes. <stage>he perceives Demoſthenes entering.</stage> Well, now I muſt be thunder-proof, his brows are clouded, and preſage a ſtorm, pray God't be but an <hi>April</hi> ſhower, as ſoon ended as begun, or (if he thunder) God ſend that (like the air) he be the better clear'd from Angers fumes and fiery exhalations: for otherwiſe, hee'l blaſt me with his breath; but (now I think on't) he ſhall find me reading. <stage>He pulls a book out of his pocket, and reads ſoftly.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſth.</speaker>
+                     <p>I'm glad to ſee you thus ſtudiouſly im<g ref="char:EOLhyphen"/>ploy'd, your actions in ſome meaſure contradict that flying rumour which proclaim'd you remiſs and negligent; you do well to de<g ref="char:EOLhyphen"/>feat black-mouth'd obloquy, and vindicate your reputation from thoſe aſperſions, with which it has been blended and defac't, I pray continue it in its proper luſtre, and ſuffer't not to be ecclipſ'd by any ſpots of a debaucht and vitious converſation.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <stage>aſide.</stage>
+                     <p>Pray' God he does not change his tune preſent<g ref="char:EOLhyphen"/>ly, this is too ſweet to laſt long.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſth.</speaker>
+                     <p>Though other men may cheriſh in their boſoms ſiniſter thoughts of all your actions, yet Ile be charitable in my conſtructions on 'um, But — <stage>ſhakes his head.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <stage>aſide.</stage>
+                     <p>Nay 'faith, if he talks of Butting, then 'war Horns; I'me the But he'el ſhoot at.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſth.</speaker>
+                     <p>Well, I muſt diſplay my thoughts unto you, I muſt not, dare not flatter you too much, for ſuch a fawning ſpaniel is worſe then a dumb dog, Ile bark to fright you, although I bite the leſs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <stage>aſide.</stage>
+                     <p>I'd rather heat a Dog bark, then him ſpeak now.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſth.</speaker>
+                     <p>I am inform'd that you give frequent viſits to your Ladies, and though, (as tis confeſs't) your ſtipend and allowance be but ſmall, you ſpend it vainly in their company; tis now no wonder, your complaints of poverty are ſo loud; for they who keep ſuch coſtly and expenſive mares as women, (like thoſe that kept <hi>Sejanus'</hi> horſe) will ſoon de<g ref="char:EOLhyphen"/>cay in their eſtates and fortunes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>Sir, you may eaſily accuſea man, though ne're ſo innocent; I would requeſt you there<g ref="char:EOLhyphen"/>fore to produce that man who dares be ſo malitiouſly bold and wic<g ref="char:EOLhyphen"/>ked, as to accuſe me face to face; there's none I know dare do it,
+<pb facs="tcp:95846:16"/>my looks would prove as fatal to him, as a <hi>Baſiliskes,</hi> or as <hi>Medu<g ref="char:EOLhyphen"/>ſaes</hi> ſnaky locks to her Beholders who e're he be, he can as ſoon with open and undazl'd eyes look on the Sun, as upon me, with this falſe accuſation in his mouth; if there are gods above and di<g ref="char:EOLhyphen"/>vine juſtice, his inquinated breath will rot his teeth, his tongue will leap out of his mouth, before he can give birth to ſo prodigious an untruth as this; beſides, you may be pleas'd ſir to conſider, how tis improbable that I, who can't disburſe enough for Neceſſaries, and have been always pincht by extream want, ſhould gain admit<g ref="char:EOLhyphen"/>tance into Ladies company.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſth.</speaker>
+                     <p>Sometimes a golden tongue may be as prevalent as a golden ſhower of mony; you have perhaps ſome winning complements, and they will paſs more currant with yong Ladies then the coin of ſome Gallants, whoſe heads are empty, though their pockets full.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>You can't expect that they ſhould be Great Wits, who have ſmall purſes, they uſual<g ref="char:EOLhyphen"/>ly ſympathize together, Wit is expenſive, it muſt be dieted with delicaties, it muſt be ſuckl'd with the richeſt wines, or elſe it will grow flat and dull.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſt.</speaker>
+                     <p>I don't like theſe principles in you, I now ſuſpect you more then ever, and be aſſur'd, my eye ſhall be always over you: I'le make the friends I have as ſo many pro<g ref="char:EOLhyphen"/>ſpectives, to take a perfect view of your deportment, and as I am inform'd, I'le act.</p>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>I hope then your friends will look th'rough the wrong end o'th' Proſpective, and all my faults will ſeem but <hi>Peccadilios</hi> and <hi>Venial</hi> ſlips. But here comes <hi>Pege.</hi>
+                     </p>
+                  </sp>
+                  <stage>Enter Pege.</stage>
+               </div>
+               <div n="4" type="scene">
+                  <head>ACT. 2. SCENE 4.</head>
+                  <stage>Pege, Eugenes Junior.</stage>
+                  <sp>
+                     <speaker>Pege.</speaker>
+                     <p>WHat? poor ſtill, <hi>Eugenes?</hi> are not thy fathers coffers open yet? Ha'ſt not with th' herb <hi>Lunaria</hi> pickt his locks? Does he (like <hi>Nero</hi>) ſtill delight to wallow on his flloores cover'd, and (as 'twere) pav'd with money? wont he allow thy pockets a guard of tutelar angels to keep the devil out?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>Not one; the devil has ſo long poſſeſs't 'um, hee'l never be caſt out, but by th' omnipotent aid of ſacred Gold, of which I'm deſtitute: I dare not go to Church for fear of being en<g ref="char:EOLhyphen"/>counter'd by a Brief, and if I am admitted into company unknown
+<pb facs="tcp:95846:17"/>to me, my firſt complement is this, <hi>Prithee lend me ſix pence:</hi> in ſumme, my head's as full of care for money, as my pocket's empty of it. Let's put our heads together, and by th' conjunction of our Brains beget a plot, let us endeavour to undermine my father.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pege.</speaker>
+                     <p>Is that your laſt refuge then? Ha' you no books to ſell? can't you live by your learning?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>No faith, not one, that's worth the ſelling, neceſſity forc'd me to look gold in my Di<g ref="char:EOLhyphen"/>ctionary as I us'd to do Latine, and I choſe rather to make it yield me mony, then onely give me good words; my Greek Lexicon I parted with for the procuring of one Greek word call'd <hi>Kruſos</hi> (Gold:) Blind <hi>Homer,</hi> becauſe he was a poor Poet, and brought me nothing, I turn'd out of doors for a ſmall bribe of twelve pence, and as the Song goes.</p>
+                     <lg>
+                        <l>My <hi>Euclids Elements</hi> did pack</l>
+                        <l>For the better element of Sack.</l>
+                     </lg>
+                     <p>My <hi>Ovids Metamorphoſis</hi> is Metamorphos'd into ſilver, and of my Grammar, which ſhould teach me to make true Latine, I have made true and lawful money. My <hi>Metaphyſicks</hi> are abſtracted from my ſtudy, and 'tis no matter, becauſe they do abitract (all they treat of) from matter; my Aſtronomy books are all expoſ'd to ſale, for liquor, onely to make experiment of the Earth's motion when my Brains (like my blood) perform their circulation: and now I am ſo good a <hi>Philoſopher</hi> as to carry all I have about me, and my ſole ſtudy is how to get more.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pege.</speaker>
+                     <p>I'm big with plot, of which when I am once delivered, I queſtion not but you will be delivered from your poverty for a time, you'l get a truce with it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>Let's hear't I pri'thee.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pege.</speaker>
+                     <p>Thus you muſt ſteer your courſe, ſtep to a Book-ſellers, and give him this angel, <stage>puls money out of's pocket.</stage> which I'le lend you, for the uſe of (the many-languag'd Bibles late<g ref="char:EOLhyphen"/>ly publiſht) for a week, their price is 12 pound, when you have once got 'um in your ſtudy, invite your father to your chamber, ſhow him your Library, and tell him you are 12 <hi>l.</hi> out of purſe for thoſe large volumes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>But <hi>Pege,</hi> my ſhelves which heretofore were cramm'd like Capons, are now empty, I've ſold almoſt all my books.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pege.</speaker>
+                     <p>Ile lend thee as many bookes of mine as ſhall fill up their room.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>Well thought of my politick Head-piece, my <hi>Matchiavel,</hi> my <hi>Richlieu,</hi> my <hi>Mazarine,</hi>
+                     </p>
+                     <pb facs="tcp:95846:17"/>
+                     <lg>
+                        <l>I'le to the Book-ſellers, and when I've got</l>
+                        <l>The Books, Ile laugh, and ſay, God ſpeed the plot.</l>
+                     </lg>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Pege.</speaker>
+                     <p>Unto what ſordid and ignoble ſhift do parents put their children? when they preferre their pelf before 'um, and love it more; they won't allow 'um one ſmall creek of all their wealth to ſail in; and therefore (after their long wiſht for death) they ſail top and top Gallant in the large Ocean of their wealth, till they make Shipwrack of their fortunes, and ſplit againſt that dange<g ref="char:EOLhyphen"/>rous rock of Prodigality; they'l ſput out whole cellars of wine, as faſt as their old parents could ſwallow and concoct their gains got by extortoin, or any indirect unlawful means; they won't be-Tantaliz'd; they'l drink their liquour when 'tis at their noſe; they'l make their golden apples (like thoſe of <hi>Sodom</hi>) molter away if they can come to touch 'um; and open all their Locks of golden water ſo often, till they are quite exhauſted. But what's the mat<g ref="char:EOLhyphen"/>ter with <hi>Aphobos?</hi> he comes thus puffing and ſweating. <stage>Ent. Aphobos.</stage>
+                     </p>
+                  </sp>
+               </div>
+               <div n="5" type="scene">
+                  <head>ACT. 2. SCENE 5.</head>
+                  <stage>Without a gown, Aphobos, Pege.</stage>
+                  <sp>
+                     <speaker>Aphobos.</speaker>
+                     <p>O <hi>Pege,</hi> I'm undone!</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pege.</speaker>
+                     <p>Why, what's the matter?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphobos.</speaker>
+                     <p>The matter! why, Ile tell thee, with ſome others of my acquaintance I've been to night upon the watch.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pege.</speaker>
+                     <p>How upon the watch? I thought you had rather been a peace breaker, then a keeper of the peace.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>You'r i'th right; for when I ſay, we were upon the watch, I mean, we fell upon 'um and beat 'um roundly: and whileſt we were deeply engag'd i'th' skirmiſh, I, that I might beſtir my ſelf the nimbler, threw of my gown, and being at length overpower'd, by a freſh ſupply of their Aſſiſtants, I was forc'd to leave my gown behind me, and think a pair of heels worth two pair of hands; the damned rogues perſued me cloſer then my other company, and ob<g ref="char:EOLhyphen"/>ſerving me to ſcale our Colledge walls, this morning brought my gown to th' preſident, and hee's reſolv'd to make a diligent ſearch after the owner; thou haſt (I hear) two gowns, I pri'thee lend me one, and I will ever ſtyle thee my grand Deliverer and Protector; fetch it quickly for fear he ſhould ſurprize me, thus unarm'd and, unprovided.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pege.</speaker>
+                     <p>Ile out, and fetch one for you.</p>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <pb facs="tcp:95846:18"/>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>Under what diſmal and unfortunate planet was I born? that when (in imitation of the Planets) I wander'd up and down, from ſign to ſign, from houſe to houſe, all my irregular motions ſhould be ſo perfectly diſcover'd: one of the watchman, that ſaw me come from <hi>Anaiskuntiaes</hi> houſe, was (as I think) a Black-ſmith; but yet I hope this Vulcan, will not divulge't abroad, that I, like <hi>Mars,</hi> was in conjunction with my <hi>Venus;</hi> if he do's, Ile blame him, and make him a right Vulcan; Ile give him a worſe fall, then <hi>Jove</hi> gave that other Vulcan, whom (as Poets tell us) he flung from heaven to earth. But I wiſh this <hi>Pege</hi> were come with's gown, I think though I hear him coming. <stage>Enter Pege with a gown in's hand.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Pege.</speaker>
+                     <p>You Rogue you, put it on quickly; the Preſident haſt call'd a congregation of Fellows, and 's a ſearching all the ſtu<g ref="char:EOLhyphen"/>dents chambers, to finde which of 'um tis has ſhed his skin; they'l inſtantly be here.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>I'le on with 't then. <stage>he puts it on.</stage>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Pege.</speaker>
+                     <p>'Tis well tis on, for here they're all.</p>
+                  </sp>
+               </div>
+               <div n="6" type="scene">
+                  <head>ACT. 2. SCENE 6.</head>
+                  <stage>Manent Pege, Aphobos, enter Eugenes ſenior <hi>Preſ.</hi> with Aphobos's gown in's hand; Demoſthenes, Philos, three other Fellow of the Colledge.</stage>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <p>WHat skabby ſheep is't that has dropt this rotten Fleece? who e're he be, he muſt be taken notice of left he ſpoil the whole flock: do you know this gown, <hi>Aphobos?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>A'n't pleaſe you ſir, I never ſaw't before; and <stage>(aſide)</stage> if I could help it, I would nere ſee't again.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. ſen.</speaker>
+                     <p>What's that you mumble to your ſelf, you would not do?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>I ſaid Sir, that I ne're ſaw't before, and if I had, I would not conceal the owner.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. ſen.</speaker>
+                     <p>What ſay you <hi>Pege?</hi> do you know't?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pege.</speaker>
+                     <p>Not I ſir, I never thought ſo torn a gown as this worth taking notice of: it ſeems to have been ſtoln out of a Beggars War<g ref="char:EOLhyphen"/>drobe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <p>The Watchmen took it up i'th ſtreet, and brought it to me, aſſuring me that it was a young Scholar's of our Colledge.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſt.</speaker>
+                     <p>The watch take it up? tis not worth taking up i'th high away; but if we knew the owner, we'd take him down to th' butterie, and give him due correction.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <stage>aſide.</stage>
+                     <p>Under correction ſir, if you're for the butteries with me, Ile lie as cloſe as <hi>Diogenes</hi> in <hi>Dolio,</hi> I'le creep in at the Bung-hole before I'le mount a Barrel, and have my hole bung'd;
+<pb facs="tcp:95846:18"/>if they catch me now, I muſt expect to be whipt like a brewers horſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. ſen.</speaker>
+                     <p>What's that you mutter, ſir?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>I ſay ſir, if 't be mine I ſhall deſire no more favour then to be whipt like a brewers horſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Philos.</speaker>
+                     <p>Certainly, I've ſeen this robe worn by ſome of our Undergraduates, I've ſeen't on ſome body's back, that belongs to our Colledge.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob</speaker>
+                     <stage>aſide.</stage>
+                     <p>I had better (like <hi>Hercules</hi>) have worn the Centaures poiſon'd coat, then have it prov'd, that I e're wore it: if it be known this robe was mine, they'l make me wear a ſcarlet robe; they'l dye my skin in my own blood, and mangle it as bad, as that gown is torn.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Fellow</hi>
+                     </speaker>
+                     <p>Sure <hi>Aphobos</hi> you're a conjuring, you make ſuch motions with your lips, and yet ſpeak not a word that can be heard; but <hi>Aphobos,</hi> I won't ſay abſolutely 'tis your gown, but I am confident, I've ſeen you wear it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphobos.</speaker>
+                     <p>Sir you'le as difficultly make it ſit me, as <hi>Mercury's</hi> garment did the Moor, who was always either waxing or waning, and ſo the garment was either too little or too big.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3 <hi>Fellow.</hi>
+                     </speaker>
+                     <p>You're ſomething like the Moon, your ſelf, you are as pale (with fear) as ſhe is; and wee'l try whether 'twill ſit you or no, come put off that gown you wear.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphobos</speaker>
+                     <stage>aſide.</stage>
+                     <p>I had rather put you off with an excuſe, if I had a good one.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3 <hi>Fellow.</hi>
+                     </speaker>
+                     <p>What is't you ſay?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>I ſay ſir, I had rather put it off then not.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. ſen.</speaker>
+                     <p>Off with't then, and put on this.</p>
+                     <stage>he gives him the gown, and he puts it on.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Fellow.</hi>
+                     </speaker>
+                     <p>It fits him, as if it were his own.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <stage>aſide.</stage>
+                     <p>A pox take you, you have fitted me with a witneſs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>2 <hi>Fellow.</hi>
+                     </speaker>
+                     <p>
+                        <hi>Aphobos,</hi> This gown was made for you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <stage>ſide.</stage>
+                     <p>I thank my good wit for't, I have hit upon a pretty excuſe now.</p>
+                  </sp>
+                  <sp>
+                     <speaker>3 <hi>Fellow.</hi>
+                     </speaker>
+                     <p>What ſay you ſir?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>I ſay ſir, that I have no excuſe for my ſelf, and muſt in<g ref="char:EOLhyphen"/>geniouſly confeſs that once it was my gown, but having another, and urg'd by want of money, I ſold it to one of another Colledge, who ſince has left the Colledge, and (as I conceive) ſold it ano<g ref="char:EOLhyphen"/>ther, and that other may have left it where 'twas found.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pege</speaker>
+                     <stage>aſide.</stage>
+                     <p>What a brave ſubtle rogue 'tis; faith, this excuſe will ſtand him in noble ſtead; 'twill hold water, and keep him from ſinking.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Fellow.</hi>
+                     </speaker>
+                     <p>What witneſs can you produce you ſold it to that party?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob</speaker>
+                     <stage>aſide.</stage>
+                     <p>'S'lid I hope that the rogue <hi>Pege</hi> will be true to me if I cite him.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Fellow.</hi>
+                     </speaker>
+                     <p>Who d'you ſay?</p>
+                  </sp>
+                  <pb facs="tcp:95846:19"/>
+                  <sp>
+                     <speaker>Pege</speaker>
+                     <stage>aſide.</stage>
+                     <p>I commend thee for thy wit, Boy; I'le reſcue thee now.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. ſen.</speaker>
+                     <p>Can you witneſs this <hi>Pege?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Pege.</speaker>
+                     <p>Yes ſir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſth.</speaker>
+                     <p>This will be try'd (Sir) preſently, let one of us exa<g ref="char:EOLhyphen"/>mine <hi>Pege</hi> apart, another, <hi>Aphobus,</hi> for how many ſhillings he ſold it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>I have the price, Sir, at my fingers ends.</p>
+                     <stage>He ſhakes his ten fingers, and winks on <hi>Pege.</hi>
+                     </stage>
+                  </sp>
+                  <sp>
+                     <speaker>Pege.</speaker>
+                     <stage>aſide.</stage>
+                     <p>I know his meaning; I muſt ſay as many ſhillings as he has fingers.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſt.</speaker>
+                     <p>Whiſper ſoftly, and tell me <hi>Aphobos.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>I had ten ſhillings for't ſir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1 <hi>Fellow.</hi>
+                     </speaker>
+                     <p>What ſay you, <hi>Pege?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Pege.</speaker>
+                     <p>He ſold it for an Angel ſir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Apho.</speaker>
+                     <stage>aſide.</stage>
+                     <p>O my good Angel; well ſaid.</p>
+                  </sp>
+                  <sp>
+                     <speaker>1. <hi>Fel.</hi>
+                     </speaker>
+                     <p>They both concurre, ſir, in the ſame price don't, they?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſth.</speaker>
+                     <p>Yes, they do ſir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <p>Well, Gentlemen, wee'l mak a further ſearch when time permits us; I have urgent occa<g ref="char:EOLhyphen"/>ſions call me away, let us depart.</p>
+                     <stage>Exeunt all but <hi>Pege</hi> and <hi>Aphob.</hi>
+                     </stage>
+                  </sp>
+                  <sp>
+                     <speaker>Pege.</speaker>
+                     <p>Now, my Boy, thou'rt out of gunſhot; thou'rt excellent at coining excuſes i'th' mintage of thy brain, and by ſtamping 'um with the counterfeit impreſs of truth; knowſt how to make 'um paſs for currant; thou canſt hammer out a lie in the forge of thy brain (the beſt that ever I knew) thou haſt a good <hi>extempore</hi> Wit that way.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>I had need then have had my wits a<g ref="char:EOLhyphen"/>bout me, for had I been once i'th' Butteries, they'd have their rods about me. But <hi>Pege,</hi> let us, for joy that I'm eſcap'd, go to th' three Tuns, and drink a pint of wine, and laugh away our cares.</p>
+                     <stage>Sings.</stage>
+                     <lg>
+                        <l>Wee'l carouſe in <hi>Bacchus's</hi> fountains, hang your Beer and muddly Ale:</l>
+                        <l>Tis onely Sack infuſes courage, when our ſpirits droop and fail;</l>
+                        <l>Tis drinking at the Tuns, that keeps, us from aſcending Buttery Barrels;</l>
+                        <l>Tis this that ſafely brings us off, when we're engag'd in feuds and quarrels.</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Pege.</speaker>
+                     <p>Come away Boy.</p>
+                  </sp>
+                  <stage>Exeunt.</stage>
+                  <trailer>Finis Actus ſecundi.</trailer>
+               </div>
+            </div>
+            <div n="3" type="act">
+               <head>ACT. 3.</head>
+               <div n="1" type="scene">
+                  <head>SCENE 1.</head>
+                  <stage>Eugenes Jun. Anaiskuntia, Morphe.</stage>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>I Thank my ſtars I have recruited my decay'd Libra<g ref="char:EOLhyphen"/>ry, and I hope that it will recruit my empty pockets: Twelve pounds! Tis a ſum my pockets were never before guilty of, and had not been ſo now, had not my father prov'd a golden
+<pb facs="tcp:95846:19"/>Aſs; now me thinkes I could venture t'other fit of my angry unckle, to ſee my <hi>Morphe;</hi> What care I though he frowns, ſo ſhe but ſmiles; let him ſhow himſelf a fierce and angry <hi>Mars,</hi> ſo ſhee'l but prove a ſmiling <hi>Venus;</hi> If he thunders, ſhee's my <hi>Daphne,</hi> my Lawrel, that can protect me from being thunderſtruck; I'le never prove a coward in this my <hi>Amorous</hi> War; And though my unckle ſhould diſcharge whole volleys of peircing words againſt me, he could not change my countenance with pale-fac'd fear, much leſs my reſolutions; but I think I ſee <hi>Anaiskuntia</hi> coming.</p>
+                     <stage>ſpeaks to her, Enter <hi>Anaiskuntia</hi> as paſsing over the Stage.</stage>
+                     <p>Pri'thee ſweet heart let me detain you a little, how does your Mi<g ref="char:EOLhyphen"/>ſtreſs, the fair and vertuous <hi>Morphe?</hi> Is ſhe ſo much at leaſure, as to vouchſafe me a ſmall conference with her; I ſhould be very proud if I could merit the noble title of her ſervant.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Anaiskun.</speaker>
+                     <p>Sir, I preſume that ſhe is ne're ſo much imploy'd, but your company may make her put a period to all her other buſineſs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>Now thou tranſport'ſt me into a pleaſant extaſie of joy; thou makeſt me be all ear, whilſt you diſtil theſe words which ſo much ſavour of blandiſhment and ſweet delights; now I'm as light as Air, and am reſolv'd to make all troubles ſtrangers to my breaſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Anaiskuntia.</speaker>
+                     <p>I can't, ſir, but admire this your immoveable and un<g ref="char:EOLhyphen"/>daunted ſpirit, that you can (like the Weather) ſing in tempeſts, and thoſe ſo great ones, which your unckle rais'd, after he heard you did frequent my Miſtriſs's, houſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>Why <hi>Anaiskun<g ref="char:EOLhyphen"/>tia?</hi> Has fame with her ſwift pinions divulg'd it thus far?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <p>Tis as I tell you ſir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>Let me tell thee then <hi>Anaiskuntia,</hi> that though wave after wave of miſery ſhould fall upon me, by thoſe ſtorms my unckle raiſes; though all adverſi<g ref="char:EOLhyphen"/>tie's moſt bluſtring winds ſhould be united and conſpire againſt me, like <hi>AEolus,</hi> I'de quell 'um all; or if I could not, I'de laugh at 'um, and dare 'um to do their worſt.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <stage>aſide.</stage>
+                     <p>I ſee there's ſomething i'th' wind now, and that he loves my miſtreſs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>They ſhould not put an end unto my voyage, th' at<g ref="char:EOLhyphen"/>tractive and magnetick vertue of her beauty's ſo ſtrong and po<g ref="char:EOLhyphen"/>tent; by her as by my Polar Star, I'le ſo direct my courſe, that though I were invelop'd with Nights black ſable mantle, I'd ſafe<g ref="char:EOLhyphen"/>ly ſtear my courſe, till my deſigns arrive to her as to their wiſht for Haven.</p>
+                  </sp>
+                  <pb facs="tcp:95846:20"/>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <p>Sir, you have now render'd me yours, more then ever; before, I entertain'd but low and abject thoughts of your deſerts, now, on the contrary, I am become a great adorer of your worth, and promiſe you my beſt aſſiſtance, towards the purchaſe of your deſired ends, what e're they be.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun</speaker>
+                     <p>Thanks for thy love my <hi>Anaiskuntia,</hi> Here's a ſmall gratuity, as an acknowledgement that I think my ſelf <stage>gives her money.</stage> much obliged to thee for it, and, if occaſion be, I'le make experiment and tryal of it; but is not this your Miſtreſs, the fair <hi>Morphe?</hi> I think it is: aſſiſt me now you Muſes.</p>
+                  </sp>
+               </div>
+               <div n="2" type="scene">
+                  <head>ACT. 3. SCENE 2.</head>
+                  <stage>Enter <hi>Morphe.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Morphe.</speaker>
+                     <p>WHat? are you here <hi>Eugenes?</hi> I thought you had been barricado'd up in your ſtudy, cloyſterd up like a Monk, and condemn'd to a twelve months penance by your unckle, to expiate that crime you committed lately in giving me a viſit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>Madam, I am confin'd I muſt confeſs, but it is onely to your ſelf; I am your vaſſal, and not a little ambiti<g ref="char:EOLhyphen"/>ous to do you any ſervice, that is within the Sphere of my ſmall power: I am not yet, and never will be cloyſter'd up, or lead a Monkiſh life: I am reſolv'd (if poſſible) to enter the ſacred bonds of Marriage.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Morphe.</speaker>
+                     <p>What? then will you be clogg'd to a ſilly woman? that's the worſt ſort of confinement, and I believe won't prove agreeable to your nature.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>Madam, I'me now a Captive, and am deſirous that my thoughts may have the benefit of a Goal-delivery.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Morph.</speaker>
+                     <p>How? a Captive <hi>Eugenes?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>I'me your Captive, Madam, and ſhall never think my ſelf at liberty, till you binde me i'th' fetters of your arms; that bondage to me will ſeem liberty.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Morphe.</speaker>
+                     <p>You ſpeak Riddles, and Myſteries, <hi>Eugenes,</hi> which are beyond the Sphere of my low capacity; I want an in<g ref="char:EOLhyphen"/>terpreter.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <p>We women are ſuch ſilly Aſſes, we don't know when we're well offer'd; we won't underſtand what's good for us, until its too late: any one that is not (like an Aſs) void of all Reaſon, may know that you're the mark he ſhoots at, and that, if he might, hee'd ſtick his Arrow in the middle of you.</p>
+                  </sp>
+                  <pb facs="tcp:95846:20"/>
+                  <sp>
+                     <speaker>Morph.</speaker>
+                     <p>You ſawcy ſlut, be ſilent, we muſt not take your ſalfe inter pretations on mens words.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>What modeſty would have forc'd me fondly to con<g ref="char:EOLhyphen"/>ceal, ſhe has reveal'd unto you: I'me glad I had ſo eloquent a ſpeaker to expreſs my vaſt affections to you: Sh'has made an ex<g ref="char:EOLhyphen"/>cellent Commentary on my words.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Morphe.</speaker>
+                     <p>Truely, Sir, her Commentary ſeems obſcurer to me, then the Text on which ſhe made it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <p>Then Sir, go to your Application, and (as an Application ought to be) let it be plain and practical.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>Madam, I'le now no longer uſe vain Circumlocutions: I'le not be alwaies converſant about thoſe outward circumſtances, of that action Marriage, called Comple<g ref="char:EOLhyphen"/>ments; I'le take the ſhorteſt Cut, and tell you plainly, that I'me ſo much enamour'd both to the beauty of your Minde and Body, that I muſt utterly deſpair of any happineſs, unleſs you'l pleaſe to perfect and compleat my wiſhes in yielding your conſent to Mar<g ref="char:EOLhyphen"/>riage.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Anairk.</speaker>
+                     <p>Now, Sir, you ſpeak (Soldier like) plainly and boldly: I'le warrant you a ſpecial Striker in <hi>Cupids</hi> Camp.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Morphe.</speaker>
+                     <p>Though, Sir, I am ſo much a woman, as that I can't conceal thoſe high reſpects I have reſerved for you, yet I'de not have you think, they're prevalent enough to terminate in Nuptial Love; I ſhall deſire you therefore to deſiſt from importuning me with ſuch vain motions.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <p>Vain motions! I ſhould think 'um good motions, were they directed to me, as to their pro<g ref="char:EOLhyphen"/>per Center; but we women forſooth, are all for Circular moti<g ref="char:EOLhyphen"/>ons: firſt we will, and then we won't,</p>
+                     <lg>
+                        <l>We won't, we will; we will, we won't again,</l>
+                        <l>Until at laſt our Coyneſs prove our bain.</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>Well, Madam, your repulſe has kept me off for a time, but it will make me come on again a freſh, with doubled vi<g ref="char:EOLhyphen"/>gour: All happineſs dwell with you.</p>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Morphe.</speaker>
+                     <p>Come, <hi>Anaiskuntia,</hi> Let us go diſpatch the buſineſs I ſpake t' you of.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <p>Madam, I'le wait upon you.</p>
+                  </sp>
+                  <stage>Exeunt both.</stage>
+               </div>
+               <div n="3" type="scene">
+                  <head>ACT. 3. SCENE 3.</head>
+                  <stage>Pege, Eugenes Junior.</stage>
+                  <sp>
+                     <speaker>Peg.</speaker>
+                     <p>I Think I was born to ſuccour and relieve diſtreſſed perſons: <hi>Aphobos,</hi> had it not been for me,
+<pb facs="tcp:95846:21"/>had been ſeverly puniſh't; and young <hi>Eugenes</hi> would have been in as poor a condition, as a wandring Pilgrim: His pockets would have been ſufficient Arguments to prove a <hi>Vacuum</hi> in Nature: I'me glad that I can be ſo inſtrumental to my friends; tis no ſmall ſatisfaction to me. But here comes <hi>Eugenes,</hi> I believe, with his heart as light, as his pockets are heavy. What hath my plot thriv'd <hi>Eugenes?</hi>
+                     </p>
+                  </sp>
+                  <stage>Enter <hi>Eugenes.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>Thriv'd! Thou art fit to be Privy Councellor to a King, my Boy; thou haſt ſo many winding Labyrinths in thy brain, that none will ever track thy grand deſigns: <hi>Joves</hi> ſecrets may as eaſily be diſcovered, as thine: Omnipotence it ſelf would be fore puzled to dive into the depths of all thy ſtratagems.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pege.</speaker>
+                     <p>Well, I'me glad I've pleaſurd you, and if it lye within the Sphere of my weak power to help you, you may command me. But no more of this; here comes <hi>Eutrapelus,</hi> he'le make us merry after our plotting.</p>
+                  </sp>
+               </div>
+               <div n="4" type="scene">
+                  <head>ACT. 3. SCENE 4.</head>
+                  <stage>Enter <hi>Eutrapelus.</hi>
+                  </stage>
+                  <sp>
+                     <speaker>Eutrap.</speaker>
+                     <p>HOw is't Gentlemen? Jovial, and blith?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>How can we be otherwiſe in your com<g ref="char:EOLhyphen"/>pany, <hi>Eutrapelus;</hi> you are the Genius of the place in which you are, and inſpire your company with a ſpirit of mirth: Your preſence (like the Suns) clears us from Melancholy's diſmal clouds: you baniſh Grief (that Traytor to all mirth) from our breaſts: you calm the rugged waters of adverſe Fortune, and make their ſurface ſmooth and even: in ſhort, you are the ſoul o'th' Company, and animate us with your lively preſence.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eutrap.</speaker>
+                     <p>I could wiſh, <hi>Eugenes,</hi> that I might (as it were) ani<g ref="char:EOLhyphen"/>mate, and infuſe a ſoul into your ſiſter, by the Act of Propagation.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>Fear not, my <hi>Eutrapelus,</hi> but that thou (like her ſoul) ſhalt dwel within her: thou ſhalt take up the beſt part in her bo<g ref="char:EOLhyphen"/>dy, for thy lodging.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eutrap.</speaker>
+                     <p>I could dwell there willingly, all my life: I'ſe ſwear ſhee's a Palace for a King to dwell in: ſhee's ſuch good meat, that, were ſhee ſet before a King, hee'd have no taſter; hee'd venture on her firſt himſelf.</p>
+                  </sp>
+                  <pb facs="tcp:95846:21"/>
+                  <sp>
+                     <speaker>Pege.</speaker>
+                     <p>Pri'thee <hi>Eutrapelus</hi> don't talk off theſe enamell'd bubbles, theſe painted pieces of clay call'd women; who, were they not over curiouſly expenſive on themſelves, they would reſemble that miſhapen clay (<hi>Prometheus</hi> uſ'd) before it was inform'd and ani<g ref="char:EOLhyphen"/>mated; they have no beauty but what we pleaſe either out of poetry'or complement to give 'um, theſe dim <hi>Cynthiaes</hi> would be very obſcure if they borrow'd not that light they have from the Sun of mens favour.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eutrapel.</speaker>
+                     <p>O <hi>Pege,</hi> do not ſay they have no beauty, tis high trea<g ref="char:EOLhyphen"/>ſon, for I have a Lady in chaſe; of that Royal beauty, that in her cheekes the White and Red Roſes of <hi>York</hi> and <hi>Lancaſter,</hi> and Li<g ref="char:EOLhyphen"/>lies of <hi>France</hi> are combin'd, I prithee then let not thy ſharp and thorny words be felt among theſe Roſes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Pege.</speaker>
+                     <p>Suppoſe <hi>Eutrapelus</hi> we ſhould be ſo civil, and ingenuous as to grant them beautiful, yet we may by experience ſee, that their beauty is like a much deſired banquet, which is no ſooner taſted, but its delicious luxury is ſwallow'd up by oblivion: beſides, there's no conformation of linements, no compoſition of features, no ſim<g ref="char:EOLhyphen"/>metry of parts ſo well compacted in a woman, but a judicious eye may perceive ſome imperfection: fair <hi>Helena</hi> when in a Looking<g ref="char:EOLhyphen"/>glaſs ſhe ſaw her own deformity, was forc'd to weep: pale <hi>Cynthia</hi> has her Spots, and <hi>Venus</hi> her Moles and Warts.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eutrapel.</speaker>
+                     <p>Becauſe fair Ladies have their ſpots</p>
+                     <l>Are they leſs beautiful? thoſe beauty ſpots,</l>
+                     <p>Will ſet 'um off with the more glorious Luſtre; But here comes <hi>Aphobos</hi> ſmiling. What makes you look ſo merrily about the guils <hi>Aphobos?</hi> You are very pleaſant me thinks.</p>
+                  </sp>
+               </div>
+               <div n="5" type="scene">
+                  <head>ACT. 4. SCENE. 5.</head>
+                  <stage>Enter Aphobos.</stage>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>I Have had a miraculous deliverance lately, and have rea<g ref="char:EOLhyphen"/>ſon to rejoyce at it, I can't but ſmile how I cheated the Preſident with <hi>Pege's</hi> gown.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>T'was well thou ſcapedſt his clutches, for hadſt thou own'd the gown, he would have made thee ride (like <hi>Bacchus</hi>) on a barrel, and made you ſhow your fat cheeks; hee'd have made you a <hi>Montelions</hi> dial, and look't on your backſide, what a Clock it was when your gown was found,
+<pb facs="tcp:95846:22"/>and (like the Sun on a Dial) hee'd have dwelt upon't a whole day, and ſoundly heated it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphoh.</speaker>
+                     <p>But I thank my good fortune, my actions did not come ſo much to light, and ſhine ſo clear, as to let him look what 'twas a Clock in my Poſtern Dial.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eutrapel.</speaker>
+                     <p>I beleeve had you been taken <hi>Aphobos,</hi> your clock would have ſtruck above once an hour; the Preſident would have laid about him couragiouſly; hee'd have ſtruck you every minute, and made uſe of his time.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>Yet he could not have much time to torture me; for he could not have taken time by the fore<g ref="char:EOLhyphen"/>lock whilſt he was on my backſide; time's bald behind.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eutrapel.</speaker>
+                     <p>I, but (like <hi>Muſicians</hi>) he might have kept time with his hands.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>That would have been very unpleaſant Mu<g ref="char:EOLhyphen"/>ſick to my ſenſes; 'twould have made me ſqueek like the ſmall ſtrings of a Treble Viol.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>
+                        <hi>Eutrapelus,</hi> if you intend to ſee my ſiſter, retire quickly, leſt ſhe be gone abroad upon a vi<g ref="char:EOLhyphen"/>ſit; my buſineſs calls me away.</p>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Eutrap.</speaker>
+                     <p>I'le uſe the greateſt ſpeed I can to meet with her.</p>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Pege.</speaker>
+                     <p>If you go to your wenches, I'l to my ſtudy; I ſhall at laſt reap the greateſt benefie.</p>
+                  </sp>
+                  <stage>Exit.</stage>
+               </div>
+               <div n="6" type="scene">
+                  <head>ACT. 3. SCENE 6.</head>
+                  <stage>Manet Aphobos: Enter Anaiskuntia.</stage>
+                  <sp>
+                     <speaker>Aphoh.</speaker>
+                     <p>I'M glad they're gone, for here's my <hi>Anaiskuntia;</hi> how does my deareſt ſoul?</p>
+                     <lg>
+                        <l>Who holds all my affections as faſt</l>
+                        <l>Haſt, Taſt, Caſt, Laſt, Waſt</l>
+                        <l>As I do her about the ſlender waſt.</l>
+                     </lg>
+                     <stage>He hugs her and kiſſes her.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Anaisk,</speaker>
+                     <p>Take heed ſir, you'l looſe preſently your ſenſe in this great crowd of words.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <l>Never fear it ſweeting;</l>
+                     <l>Thou'lt ſee my ſenſe and all my words,</l>
+                     <l>Stick cloſe together as Cheeſe-curds.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Anai<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>k.</speaker>
+                     <p>Where's the cream o'th' jeaſt there?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>It lies in the milky way betwixt thoſe pleaſant fontinels, your breaſts.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <p>What? Then your turn'd child? and muſt be ſuckl'd with breaſt-milk?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>I could hang upon thoſe ſnowy Alpes to eternity: if thoſe were the two topt <hi>Parnaſſus,</hi> Poets ſpeak off, I'de turn a drol<g ref="char:EOLhyphen"/>ling
+<pb facs="tcp:95846:22"/>Poet, and court thee in Rhym that I might lie and ſleep there.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <p>Come, let me hear how you'd Rhym?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <l>As oft as at your breaſts I nibble,</l>
+                     <l>Methinks I am grown big with quibble;</l>
+                     <l>Here Heaven muſt be, for moſt do ſay,</l>
+                     <l>That there's in Heaven a milky way.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Anaik,</speaker>
+                     <p>Well <hi>Aphobos.</hi> I'm in haſt now, and muſt be gone; but I'le aſſure you, that if ever I marry any, your are the man de<g ref="char:EOLhyphen"/>ſigned by me.</p>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>I've hopes enough now to enjoy her: well, I'le go and contrive how to effect this buſineſs with ſecreſie and ſecurity.</p>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <trailer>Finis Actus tertio.</trailer>
+               </div>
+            </div>
+            <div n="4" type="act">
+               <head>ACT. 4.</head>
+               <div n="1" type="scene">
+                  <head>SCENE I.</head>
+                  <stage>Philos, Eugenes Senior.</stage>
+                  <sp>
+                     <speaker>Philos.</speaker>
+                     <p>TIs true, I once reſolved to conceal yong <hi>Eugenes</hi>'s ram<g ref="char:EOLhyphen"/>bles from his Unckle, but now they are ſo frequently Eccho'd and nois'd abroad, I cannot, dare not do it: ſhould I cloud 'um in obſcurity for a time, they would (like thunder-bolts too long Impriſon'd in a cloud) break forth with more impetuous vio<g ref="char:EOLhyphen"/>lence; I therefore am reſolv'd t'unload my breaſt, and make old <hi>Eugenes</hi> bear his ſhare o'th' news of's Nephews vitiouſneſs: and here he comes moſt opportunely for it:</p>
+                     <stage>Enter Eugen. Senier.</stage>
+                     <lg>
+                        <l>Your ſervant <hi>Mr.</hi> Preſident</l>
+                        <l>I have a freſh ſupply of news concerning your wild Nephew;</l>
+                        <l>His vices now are grown ſo great and loud,</l>
+                        <l>That ſecreſie can them no longer cloud,</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. ſen.</speaker>
+                     <p>Why <hi>Philos?</hi> What vices has Fame of late proclaim'd him guilty of.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Philos.</speaker>
+                     <p>Before, ſhe onely in general declar'd him a notorious Rambler, but now deſcends to particulars, and dilates her ſelf more largely on his actions; ſhe reports that hee's a continual vi<g ref="char:EOLhyphen"/>ſiter of <hi>Morphe,</hi> who, though a Gentlewoman, yet of mean fortunes; beſides, her maid is noted for a light and wanton ſlut, ſhe is a com<g ref="char:EOLhyphen"/>mon Hackney; and may be hir'd at the ſame rate as Hackney Horſes are; Twelve pence a ſide makes her y<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ur own: for that price a man may up, and ride her; She (like the Roman Curti<g ref="char:EOLhyphen"/>zan
+<pb facs="tcp:95846:23"/>
+                        <hi>Sempronia</hi>) If men refuſe to Court her, will not abſtain from Courting them: ſhee's ſomewhat fair indeed; but though this beau<g ref="char:EOLhyphen"/>tiful Cyren have a womans face, ſhee ends i'th Serpents Tail; ſtings to the purpoſe. Though this unſatiable Harpy has a Vir<g ref="char:EOLhyphen"/>gins face, yet has ſhe cruel Talons too under her wings: ſhee's one, whom neither <hi>Argus</hi> with his hundred eyes, nor brazen walls, nor the moſt vigilant Guards, can e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>re ſecure from her inconti<g ref="char:EOLhyphen"/>nency: ſhe tricks her ſelf up with ſuch variety of gauderies, as if ſhe expos'd her body as a bait to bring the devil to her lure, and tempt the very Tempter to embrace her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <p>My blood is curdl'd at this diſmal news; the Raſcal will be here preſently, to fetch ſome Books I promis'd to lend him: me thinks he makes a long and tedious ſtay. O, here he comes.</p>
+                  </sp>
+               </div>
+               <div n="2" type="act">
+                  <head>Act. 4 SCENE 2.</head>
+                  <stage>Enter <hi>Eugenes</hi> Junior.</stage>
+                  <sp>
+                     <speaker>Eugen. Jun.</speaker>
+                     <l>I'me come to wait upon you, Sir, to fetch thoſe</l>
+                     <l>Books you promis'd to lend me.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Eugen. Sen.</speaker>
+                     <p>Books! What Books I pray, would you have? <hi>O<g ref="char:EOLhyphen"/>vids Amorum,</hi> or <hi>De Arte Amandi:</hi> there I believe lies the ſumme of your Studies, or in ſome other obſcene <hi>Drolliſt,</hi> as <hi>Martials</hi> Bawdy <hi>Epigrams, Propetius</hi>'s Effeminate ſtrains, ot <hi>Petronius Arbi<g ref="char:EOLhyphen"/>ter</hi>'s Whoreing Verſes.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>
+                        <hi>I am amaz'd</hi> at this diſcourſe: whither it tends, I can't conjecture: to me it is a Riddle.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <p>If it be (though I'me ſure tis not) I believe your own Conſcience is a ſufficient <hi>Oedipus</hi> to unriddle it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>My own Conſcience! My Conſcience is as uncapa<g ref="char:EOLhyphen"/>ble of wracking gripes and fears, as heaven it ſelf; it never yet was guilty of any foul enormity; and therefore can't be the Recepta<g ref="char:EOLhyphen"/>cle of Panick fears.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <p>I ſee your impudence is ſo ſtrong and daring, that of your ſelf you'l confeſs nothing: Pri' thee <hi>Phi<g ref="char:EOLhyphen"/>los</hi> ſtep into the Town, and fetch my Brother, and then I'le vent my thoughts more freely.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Philos.</speaker>
+                     <p>Ile go with winged ſpeed.</p>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>Tis not a Fathers preſence can affright my pure and
+<pb facs="tcp:95846:23"/>virgin innocency.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <p>Well, Sirrah, I have not pati<g ref="char:EOLhyphen"/>ence to contain my ſelf: I muſt unbutton my breaſt to you, and tell you all. You are, I hear, a conſtant viſitant of one <hi>Morphe,</hi> a perſon of low Fortunes; and, if you do'nt pretend Courtſhip to her, I fear you'r guilty of a worſe crime, and are too well acquain<g ref="char:EOLhyphen"/>ted with that Whore her Maid.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>As for her Maid, I ever ſcornd her as a baſe, abject, inferior wench; but for her Miſtreſs, the fair and vertuous <hi>Mor<g ref="char:EOLhyphen"/>phe,</hi> I have Altars, and Temples in my heart, erected for her me<g ref="char:EOLhyphen"/>rits: her! I do, I will, maugre both men and devils, love.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <p>Well, Sir, we'l cool your courage, as hot as you are-here's your father, with <hi>Philos;</hi> I'le tell him all.</p>
+                  </sp>
+               </div>
+               <div n="3" type="scene">
+                  <head>ACT. 4. SCENE 3.</head>
+                  <stage>Enter <hi>Philos,</hi> and <hi>Eugen.</hi> Juniors Father.</stage>
+                  <sp>
+                     <speaker>Philos.</speaker>
+                     <p>I've brought your Brother, Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <p>I thank you Sir; but yet could wiſh his coming might be welcom'd with better news: I ſhall diſturb, and diſcompoſe his thoughts with a Narration of his ſons debaucheries.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun. Father.</speaker>
+                     <p>Speak quickly, Brother, leſt by your too long ſilence, I be induc'd to think his vices are beyond expreſſion, and fancy him a worſe Monſter, then you'l (it may be) repreſent him to me: I'me already perſwaded, that he's a burden to the earth he treads on: Wracks, I believe, and Halters cannot extort more from him, then's guilty Conſcience; he being conſcious to him<g ref="char:EOLhyphen"/>ſelf, that were his cloſe breaſt glaz'd and pellucid, (according un<g ref="char:EOLhyphen"/>to <hi>Momuſes</hi> deſire) twould be a poor and idle ſin, of which it had not been a Receptacle. He looks like one ſurpriz'd in a ſhameful act of Luſt, or Theft: he knows not what to ſay, or think, or do: his Spirits huddle conſuſedly together, and would go ſomewhither, but know not where; do ſomething, but they know not what: were he to be arraigned before a Judge, his countenance would prove his Executioner, and hang him. O! that I ſhould e're give give birth to ſo Prodigious a Rogue, who's forfeited ſo far to vice, as that no vertue can redeem him; his heart, when tis be<g ref="char:EOLhyphen"/>ſieged by a temptation, though ne're ſo ſmall, (like <hi>Rome</hi> when t'was beſieg'd) is alwaies taken.</p>
+                  </sp>
+                  <pb facs="tcp:95846:24"/>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>Sure, Sir, I could never be ſuch a Monſter as you re<g ref="char:EOLhyphen"/>preſent me, unleſs ſome of your vices were entail'd upon me; be<g ref="char:EOLhyphen"/>cauſe you (by uncharitableneſs) have forgot you are my father, I muſt forget that I'me your ſon, and ſpeak my minde more plainly.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <p>Nay, now I ſee he's arriv'd to the height of wick<g ref="char:EOLhyphen"/>edneſs: he that forgets his duty to a father, will not ſtart back from the commiſſion of the moſt horrid crime: he'l ſwallow ſmal<g ref="char:EOLhyphen"/>ler Gnats, that does not boggle at a greater matter: his nature's ſo inur'd to wickedneſs, that (like poiſons to ſome bodies which are accuſtom'd to 'um) it does become his food and nouriſhment.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun. Fath.</speaker>
+                     <p>I beſeech you, Brother, ſend for his Tutor, that we may all conſu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t how to reſtrain his wickedneſs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <p>Let me intreat you, <hi>Philos,</hi> to accept of the trouble of fetching <hi>Demoſthenes;</hi> his chamber is not far: deſire him to vouchſafe us his preſence here.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Philos.</speaker>
+                     <p>I ſhall be proud to ſerve you, Sir. <stage>Exit.</stage>
+                     </p>
+                     <p>
+                        <stage>aſide.</stage> But when I'me out, I'le come no more.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun. Fath.</speaker>
+                     <p>Me thinks, Sir, that the ſenſe of your vices ſhould make you tap your eyes, and drop a tear or two, which (as <hi>Mercury</hi> water does a Rock) might diſſolve your hard, your rocky heart, into a penitent confeſſion of your faults:</p>
+                     <lg>
+                        <l>But when of ſinning we have loſt a ſenſe,</l>
+                        <l>We muſt expect final impenitence.</l>
+                     </lg>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <p>Tis very true, Brother; the villain is hardned in's wickedneſs; he aſſumes confidence from his crimes, and (like your common proſtitutes) ſinning's become his trade, hee's not a<g ref="char:EOLhyphen"/>ſham'd to glory of his ſhame, but his Tutour is come now, he ſhall hear all, I made bold to trouble you <hi>Demoſthenes;</hi> here's a Pupil of yours has miſcarry'd, and I fear, loſt for ever.</p>
+                  </sp>
+               </div>
+               <div n="4" type="scene">
+                  <head>ACT. 4. SCENE 4.</head>
+                  <stage>Enter Demoſthenes.</stage>
+                  <sp>
+                     <speaker>Demoſth.</speaker>
+                     <p>LOſt for ever? I'm almoſt loſt in admiration at this fatal news; I pray deliver me of that Timpany of ex<g ref="char:EOLhyphen"/>pectation to hear his vices, with which I'm big.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. ſen.</speaker>
+                     <p>He has commenc'd an acquaintance with that beggar<g ref="char:EOLhyphen"/>ly gentlewoman call'd <hi>Morphe,</hi> who though ſhe has a little skindeep beauty, yet ſhee's deſperately poor and indigent, her beauties co<g ref="char:EOLhyphen"/>lours,
+<pb facs="tcp:95846:24"/>like thoſe in the Rainbow, paeſage a barrenneſs of Rain; no golden ſhowres can come from her; ſhe may (it may be) like the Sun in the warm Summer, guild and refreſh him with ſome few golden rayes, but they're ſo few and ſmall, that in the Winter of adverſity, they'le all be ſpent and quite exhauſted; her eſtate (I fear) like <hi>Tholoſanus</hi>'s gold, will ruine and undo thoſe that enjoy it; tis too ſmall to laſt long.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſth.</speaker>
+                     <p>I thought yong <hi>Eugenes,</hi> I had ſufficiently Catechis'd you about theſe idle courſes, will you never wear your virile gown, and be a man? Is this a fit qualification for a ſtudent in <hi>Philoſophy,</hi> to be a viſitant of wenches? If you would exerciſe your court<g ref="char:EOLhyphen"/>ſhip, do it on that excellent Lady, <hi>Philoſophy?</hi> ſhe is not coy, but with expanded hands, and open arms will entertain you: her diſ<g ref="char:EOLhyphen"/>courſes are not (like other Lady's) onely frothy and pleaſing, but profitable too; ſhe's a fit object for your love.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>Sir, your ſo tender, and father-like expreſſions have melted my before congealed ſenſes into tears, <stage>weeps.</stage> which all their Winter ſtorms of taunting words, would but have made the harder, but yet (to your and my own grief) I plainly muſt acknowledge that I reſpect, and highly honor, and (which is more) entirely love that exquiſite piece of beauty, <hi>Morphe;</hi> in whom nature has out-work't her ſelf, and far tranſcended her own Idea's; ſhe can't be paralle'ld by any art, much leſs by nature: ſhee'd baffle Painters to decypher her exactly, as bad as Agues puzle Doctors; and you muſt know, that your reſtraining me from her company will prove as fatal to me, as letting blood does uſually to thoſe that are affected with th' ſmall pox, or as th' ſmall pox to a fair face: I love her, and though I looſe my fortune, nay, my life for't, I will have her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſt.</speaker>
+                     <p>Conſider, <hi>Eugenes,</hi> that <hi>Cupid's</hi> blinde, and be not ſo imprudent as to follow a blinde guide. Show your ſelf a Phi<g ref="char:EOLhyphen"/>loſopher: and get the maſtery over that fond Paſtion, Love.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <l>Love can't be maſter'd, Sir:</l>
+                     <l>As ſoon as maſtery comes, ſweet Love anon</l>
+                     <l>Taketh his nimble wings, and ſoon is gone.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſth.</speaker>
+                     <p>Whip that fond Boy, <hi>Cupid,</hi> and that will make him, like a little child, run away from you: then indeed, he'le take's wings, and be gone.</p>
+                  </sp>
+                  <pb facs="tcp:95846:25"/>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>Sir, he is arm'd with arrows, and for each blow, he'l wou<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d me to the heart, as he has done already.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun. Fath.</speaker>
+                     <p>Well, Sir, if you won't hearken to your Tu<g ref="char:EOLhyphen"/>tors ſafe advice, know, that before this company, I declare you diſinherited, and leave you heir to no more then twelve pence of my eſtate: and ſo farewel.</p>
+                  </sp>
+                  <stage>Exit.</stage>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <p>And that I may be no ſmall aſſiſtant in reclaiming you from your lewd courſes, I'le command your chamber door key to be brought to me, your door to be double lock't: your chamber ſhall ſerve you both for Banqueting houſe, and Bog-houſe; Par<g ref="char:EOLhyphen"/>lour, and Privy-houſe. You ſhall be fed like a Caged Bird: your victuals ſhall be given you through Grates, and thus I'le leave you: come let us go <hi>Demoſthenes.</hi>
+                     </p>
+                  </sp>
+                  <stage>Exeunt both.</stage>
+               </div>
+               <div n="5" type="scene">
+                  <head>ACT. 4. SCENE 5.</head>
+                  <stage>Eugeneia, <g ref="char:V">Ʋ</g>perephania, Eutrapelus.</stage>
+                  <sp>
+                     <speaker>
+                        <g ref="char:V">Ʋ</g>pereph.</speaker>
+                     <p>WEll, Madam, be advis'd by me, ne're marry if you're wiſe: theſe men (when once marri'd) are alwaies licking their wives lips, and by too frequent breathing on thoſe Red Roſes, make 'um at laſt as blew as their own noſes in a winter morning. Conſider, That for a few drams of Beſtial plea<g ref="char:EOLhyphen"/>ſure, you muſt be wrack't to a confeſſion that you have been at your ſport, by the untollerable Pangs of Child-bed: your body, will once in nine months, be unjoynted, after you have been glu'd unto a man: theſe men (like Tinkers) will ſtop up one Hole in us, but make three for't, by weakning our bodies: they'l go a<g ref="char:EOLhyphen"/>broad and drink o'th beſt, and vex their wives at home, till they are drunk with their own tears. We women are the ſhips in which men ſail i'th Ocean of this world; they'l leap into us wiſ<g ref="char:EOLhyphen"/>lingly at firſt, and come aboard, but when we leak, by reaſon of th'infirmities of age, they'l let us ſink and periſh, and leap as faſt out of us the're truſt, 'um Miſtriſs.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eugen.</speaker>
+                     <p>You wan't my brother again to rattle you for theſe in<g ref="char:EOLhyphen"/>vectives againſt marriage, pray hold your tongue.</p>
+                  </sp>
+                  <sp>
+                     <speaker>
+                        <g ref="char:V">Ʋ</g>perep.</speaker>
+                     <p>Well Madam, I am ſilent, and tis high time, for <hi>Eutra<g ref="char:EOLhyphen"/>pelus</hi> is coming.</p>
+                  </sp>
+                  <stage>Enter Eutrapelus.</stage>
+                  <sp>
+                     <speaker>Eutrapel.</speaker>
+                     <p>I hope now noble Madam, I have a lience to plead a<g ref="char:EOLhyphen"/>gain
+<pb facs="tcp:95846:25"/>gain in <hi>Cupids</hi> Count, which lately you adjourn'd: 'tis not the long vacation yet; let me requeſt you therefore Madam to end my ſuit<g ref="char:punc">▪</g> let it not laſt as long, as Law ſuites do in Chancery; one word of yours, whereby I may be well aſſur'd of your affection, will ſet me out of miſeries reach, I ſhall be more invulnerable then Achilles, for he was wounded in the heel; but I ſhall be arm'd <hi>Cap a Pee</hi> a<g ref="char:EOLhyphen"/>gainſt all danger with one word of encouragement from you.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eugeneia.</speaker>
+                     <p>What power I have over my ſelf, I willingly reſign to you <hi>Eutrapelus,</hi> but yet there wants the main wheele to put your deſigns in motion, I mean my fathers conſent; and he has reſolv'd to keep me in my Virgin ſtate theſe two years: How ſhall I ex<g ref="char:EOLhyphen"/>tricate my ſelf from theſe great difficulties?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eutrapelus.</speaker>
+                     <p>Go but along with me and I'le ſecure you: I'l tell you what to do.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eugenia.</speaker>
+                     <p>Well, I'l commit my ſelf unto your truſt.</p>
+                  </sp>
+                  <stage>Exeunt both.</stage>
+               </div>
+               <div n="6" type="scene">
+                  <head>ACT. 4. SCENE 6.</head>
+                  <stage>Enter Aphobos, Anaiskuntia.</stage>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>COme my <hi>Anaiskuntia,</hi> when ſhall we make a conjunction Copulative? What will't always be nibbling at my fleſhly Bait, and never take it in?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <p>Your hook appears too much, Sir, to make me taſt the Bait; I'm afraid you come upon the catch, onely to try whether I'le bite or no; and if I do, you'l onely tear open my mouth, make it bleed, and then leave me.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <l>Leave thee? give me but thy conſent,</l>
+                     <l>And I'le ſtick ſo cloſe to thee, that every one</l>
+                     <l>That ſee's us, ſhall ſwear we are but one;</l>
+                     <l>Leave thee, Leave thee, I'le not leave thee,</l>
+                     <stage>he ſings.</stage>
+                     <l>O how loth am I to leave thee!</l>
+                  </sp>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <p>I ſcarce know how to truſt you, you men are ſo ac<g ref="char:EOLhyphen"/>cuſtom'd to make your thoughts ſtrangers unto your words.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>Not how to truſt me! Why, I'le give thee earneſt my girle, I'le make the cock ſure.</p>
+                     <stage>be kiſſes her.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <p>Come, ſtay your ſtomach a little with that kiſs, you'l fall too the more heartily preſently for it: as ſoon as the Prieſt has coupl'd us, do your beſt and worſt.</p>
+                  </sp>
+                  <pb facs="tcp:95846:26"/>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>Well, my <hi>Anaiskuntia,</hi> accompany me to my chamber, and wee'l contrive the buſineſs there, there's another couple will be Married with us.</p>
+                  </sp>
+                  <stage>Exeunt both.</stage>
+                  <trailer>Finis Actus Quarti.</trailer>
+               </div>
+            </div>
+            <div n="5" type="act">
+               <head>ACT. 5.</head>
+               <div n="1" type="scene">
+                  <head>SCENE 1.</head>
+                  <stage>Eugenes Junior ſolus.</stage>
+                  <sp>
+                     <speaker>Eug. J.</speaker>
+                     <p>WHat would they have made me live immur'd, and cag'd up in my chamber? This was (like a Nun that has had a Clap) to be buried alive in a Coffin of a larger Volume, muſt I have walkt up and down in my Chamber like a pale Ghoſt, and (as't were be Magick Charmes) be limited and confin'd to walk no further? I'le make'um know, that it would prove as eaſie, to manacle Omnipotence, or confine a Spirit, as me; although I could not, like <hi>Dadalus,</hi> make me wings, and take my flight out of my cage, yet I could file a Bar, and break my paſſage out o'th' chamber window; they ſhould not have left me an eye of light, had they intended to ſecure my perſon, I can creep th'rough a window, eat Iron Bars thorough like <hi>Aquafortis,</hi> break th'rough the gaping jaws of danger, for to obtain the ſight of my dear <hi>Morphe;</hi> had they diſperſed ſerpents teeth, and ſown 'um in my way, and (<hi>Cadnius</hi> like) made them to ſpring up armed men, I'de have encounter'd with 'um all; my breaſt already is too much poſſeſs't with Love, to harbour ſlaviſh fear; I'le preſently poſt to <hi>Morphe,</hi> and give her the relation of all my travels, but whilſt I talk, methinks I ſee my glorious Sun appear, ſhe comes and ſhines upon me ſweetly, her countenance wears a lovely ſmile; What makes the faireſt <hi>Morphe</hi> ſo neatly dreſs her countenance into a ſmile? May I preſume to know the cauſe?</p>
+                     <stage>Enter Morphe.</stage>
+                  </sp>
+               </div>
+               <div n="2" type="scene">
+                  <head>ACT. 5. SCENE 2.</head>
+                  <sp>
+                     <speaker>Morphe.</speaker>
+                     <p>TWo things there were that mov'd my laughter, firſt to ſee you, who (as I heard) were kept cloſe perſoner in your Chamber, ſecondly, that I have loſt (the pretious jewel) my maid, ſome body has robb'd me of her, much good may't do
+<pb facs="tcp:95846:26"/>'um.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. jun.</speaker>
+                     <p>Madam, you have ſufficient grounds of ſmiling, but as ſmiling is but a Prologue to perfect laughter, ſo coutſhip is to Marriage joyes, let me deſire you therefore to make me leave off all vain Prologues, and fall to th' ſport, and let me act Marriag'es merry Comedy with you; Ladies act Plays ſometimes as well as men.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Morphe.</speaker>
+                     <p>But I'm afraid (my dearſt <hi>Eugenes,</hi>) (for now that Epithete thou doeſt deſerve) our Comedy will prove a Tra<g ref="char:EOLhyphen"/>gedy to you, 'ith' Epilogue:</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>Never fear it Madam, but if it do, my ſtraines (like thoſe in Tragedies) ſhall be high and lofty, I'le not cringe to the beſt of 'um all, but talk as high as they, till at laſt, it prove but a Tragi Comedy at moſt, beginning in ſadneſs and ending in mirth.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Morphe.</speaker>
+                     <p>Well, my <hi>Eugenes,</hi> thy conſtancy has overcome me, I'm now your own; but who ſhall marry us?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>Why thus, my unckle you know is a Clergy-man, wee'l go to him in a diſguiſe, and make him marry us, then, we'el laugh at him, and vex him as much as he has done us.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Morphe.</speaker>
+                     <l>Let's go then and accouſtre our ſelves accordingly,</l>
+                     <l>The world ſhall know that 'tis a thing above,</l>
+                     <l>All human Pow'r to over maſter Love.</l>
+                     <stage>Exeunt.</stage>
+                  </sp>
+               </div>
+               <div n="3" type="scene">
+                  <head>ACT. 5. SCENE 3.</head>
+                  <stage>Eug. ſen. Eug. juniors father, Demoſthenes.</stage>
+                  <sp>
+                     <speaker>Eug. ſen.</speaker>
+                     <p>
+                        <hi>DEmoſt henes,</hi> how does your Pupil reſent his confine<g ref="char:EOLhyphen"/>ment? You hear nothing of s repining at it, do you?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſth.</speaker>
+                     <p>Not a word, but I fear 'twil make him more deſperate and reſolute, his nature will never brook it.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. jun. father.</speaker>
+                     <p>You are too tender of him <hi>Demoſthenes,</hi> he muſt be curb'd and bridl'd in, if ever you intend he ſhould be ſtopt i'th full career of his debauchery.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſth.</speaker>
+                     <p>But ſir, ſome horſes the more you curb 'um in, will run the faſter.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Juniors father.</speaker>
+                     <p>Sir, he's a rebellious Son, and (like Rebels) muſt undergo a ſharp confinement, before hee'l be reduc'd to 's due obedience.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug ſen.</speaker>
+                     <p>You ſay true brother, he muſt have his wings clipt, and be coop'd up, if ever you expect to came him.</p>
+                     <stage>Enter Morphe Eugenes Jun. in ruſtick habits.</stage>
+                  </sp>
+                  <p>Who is't you'd ſpeak with good people? What's your pleaſure?</p>
+                  <pb facs="tcp:95846:27"/>
+                  <sp>
+                     <speaker>Eug. J.</speaker>
+                     <p>We come an't pleaze your Vorſhip to be Morried, I con love this fine laſs, and zhe proveſſes, zhe con do zo to me; wil you zir, be pleas'd to yoke us together.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſth.</speaker>
+                     <p>Theſe are right countrey Bump-kins: they talk in a broad language, much like the <hi>Dorick</hi> Dialect in Greek: they don't clip their words; but give large <hi>London</hi> meaſure in their talk: enough for money.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <p>What's your name, I pray, honeſt man?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>I am cleped, Sir, <hi>Villip Lovelaſs.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <p>And do you love this laſs?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>I, by my vaith Sir, do I.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <p>What's your name, fair Maid?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Morph.</speaker>
+                     <p>My name is <hi>Mary Allcock,</hi> an't pleaſe your worſhip.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <p>That's a fit name for a Maid that's to be Married: here's a couple will make a <hi>Philip</hi> and <hi>Mary</hi> coyn.</p>
+                     <p>But who have we here?</p>
+                     <stage>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> they talk, <hi>Aphobos</hi> paſſeth over the Stage with <hi>Anaiskuntia</hi> under his Gown, and her legges in ſight.</stage>
+                     <p>Come hither Sir, come hither: What have you under your Gown?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>A Saddle, an't pleaſe you, which I borrow'd to ride out of Town on.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <l>A Saddle, Sir!</l>
+                     <stage>points to her legges.</stage>
+                     <l>And theſe are the Sirrups, are they?</l>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſth.</speaker>
+                     <p>Sirrah, What? muſt you be riding upon a Fleſh Sad<g ref="char:EOLhyphen"/>dle? Are theſe fit courſes for a Scholar?</p>
+                     <stage>
+                        <hi>Aphobos</hi> ſets down the wench, and ſhe ſlips away.</stage>
+                     <p>Well, get you to your Chamber,</p>
+                     <p>Tomorrow we'le take a courſe with you.</p>
+                  </sp>
+                  <stage>Exit Aphob.</stage>
+                  <sp>
+                     <speaker>Eug. ſen.</speaker>
+                     <p>But d'y' hear Maiden, can you love this man?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Morphe.</speaker>
+                     <p>Yes forzooth can I, and none body elſe.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eng. ſen.</speaker>
+                     <stage>aſide.</stage>
+                     <p>Tis a pretty Peat, to do the Feat; ſhe heats my marrow: methinks I could be young again, that I might enjoy her.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Demoſth.</speaker>
+                     <p>You'd beſt marry 'um quickly, Mr. Preſident, I be<g ref="char:EOLhyphen"/>lieve they're impatient of delay.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. ſen.</speaker>
+                     <p>Well Gentlemen, accompany me to our Chappel to th'marrying theſe people.</p>
+                  </sp>
+                  <stage>Exeunt omnes.</stage>
+               </div>
+               <div n="4" type="scene">
+                  <head>ACT. 5. SCENE 4.</head>
+                  <stage>Aphobos, Anaiskuntia.</stage>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>THeſe women are alwaies wilful; ſhe would not put on the clothes I prepared for her; but tis no matter, we were married before they took us: they can't ſpoil our ſport
+<pb facs="tcp:95846:27"/>now: my name too is cut out o'th' Colledge butteries; and I have now no title to the honour of mounting a Barrel: but I won<g ref="char:EOLhyphen"/>der my <hi>Anaiskuntia</hi> ſtates thus long: ſure ſhe is dreſt in her mans apparel by this time.</p>
+                     <stage>he's ſilent, and looks about the Stage a good while.</stage>
+                     <p>What, no appearance yet? 'tis ſtrange!</p>
+                     <p>O, now ſhe's come.</p>
+                     <stage>Enter Anaiskuntia in a Scholars habit.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Anaisk.</speaker>
+                     <p>I can't endure to wear mens clothes thus, methinks tis ugly to ſee a woman wear the Breeches.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>I wonder whether <hi>Eugeneia</hi> and <hi>Eutrapelus</hi> are married yet or no, they ſhould be by this time, or elſe the Parſon made not ſo quick diſpatch with 'um as he did with us; nay, now I conclude they 're married, for here they come.</p>
+                     <stage>Enter Eutrapelus with Eugeneia in a Scholars habit.</stage>
+                     <p>How like you marriage joys <hi>Eutrapelus?</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Eutrap.</speaker>
+                     <p>O, they're an Antepaſt of Heaven: <hi>Mahomet</hi> I ſee was no fool, for making his paradice a place for the fruition of Genial pleaſures; He knew what it was to be truly happy: But don't our wives look like fine ſmooth-fac'd Lads in this man-like habit? I wonder <hi>Jupiter</hi> comes not from Heaven to make one of 'um his Cup-bearer, as he did <hi>Ganymed?</hi> come, lets ſing a little.</p>
+                  </sp>
+                  <stage>They all ſing.</stage>
+                  <l>
+                     <hi>Come let us ſing the time invites, our joys are now com<g ref="char:EOLhyphen"/>pleated,</hi>
+                  </l>
+                  <l>
+                     <hi>All oppoſitions are blaſted and defeated.</hi>
+                  </l>
+                  <l>
+                     <hi>Come let us kiſs, my ſpirit's high, and fain would be in action,</hi>
+                  </l>
+                  <l>
+                     <hi>Now we will laugh, and thoſe defis, in Love who breed a Faction;</hi>
+                  </l>
+                  <l>
+                     <hi>We will not fear an ill-look'd Dean, nor mirth-diſturbing Proctor,</hi>
+                  </l>
+                  <l>
+                     <hi>We'l now carouze, and ſing and bouze, before the graveſt Doctor.</hi>
+                  </l>
+               </div>
+               <div n="5" type="scene">
+                  <head>ACT. 5. SCENE 5.</head>
+                  <stage>Whileſt they are ſinging, enter Eugenes ſenior, Demoſthenes, Eugenes juniors Father.</stage>
+                  <sp>
+                     <speaker>Eug. ſen.</speaker>
+                     <p>WHat? are you all mad, you make ſuch a diſtur<g ref="char:EOLhyphen"/>bance in the Colledge? as for you two <hi>Eutrapelus.</hi> and <hi>Aphobos,</hi> we know you for notorious Rogues, but theſe two pretty young lads, I believe were ſeduc't by you.</p>
+                     <stage>pointing to the women.</stage>
+                     <p>Were you not Sweet-hearts?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eugeneia.</speaker>
+                     <p>Yes Sir, we were led hither by 'um.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. ſen.</speaker>
+                     <p>Well, go your ways for this time, and come no more into this leud company.</p>
+                     <stage>Exeunt Eugeneia, Anaiskuntia.</stage>
+                     <p>As for your part <hi>Aphobos,</hi> you were catcht lately with a wench,
+<pb facs="tcp:95846:28"/>and one (who by report) was light enough either for you to bear her, or her to bear you: ſhe's in plain termes a common whore, and not fit company for a Student.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>Sir, either give her a better Character, or I'le give her one written in your warmeſt blood; ſhe is my lawful wife, and he that blemiſhes her reputation with the ſmalleſt ſcandal, I'le rip him up alive, and ſacrifice him to her honour, which ever was un<g ref="char:EOLhyphen"/>tainted and immaculate.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eutrap.</speaker>
+                     <p>The other alſo was my wife, although inveſted in a Scholaſtick habit.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <p>If you are married, you've forfeited your places.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Aphob.</speaker>
+                     <p>It is confeſt, we have; nor do we now deſire to keep 'um longer: our names are out o'th Butteries, and our perſons out of your dominions.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun. Fath.</speaker>
+                     <p>Here's mad doings: but (I believe) my ſons too faſt for ever getting out to marry.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <p>But tell me true, were thoſe your wives?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eutrapel.</speaker>
+                     <p>They were Sir, and here they are again in their own habit and attire.</p>
+                     <stage>Enter Eugeneia and Anaiskun<g ref="char:EOLhyphen"/>tia in looſe morning gowns.</stage>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <p>I wiſh you joy then, O my Neece, <stage>he turns to Eugeneia.</stage> are you married too? You'r well provided for in having marri'd <hi>Eutrapelus.</hi>
+                     </p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun. Fath.</speaker>
+                     <p>Well, 'twas happy that my ſon was kept cloſe priſoner; although my daughter has broke looſe, he, I believe, is far from thoughts of marriage:</p>
+                     <stage>whileſt he ſpeaks, enter Eug. Jun. leading Morphe.</stage>
+                     <p>Oh! what a ſad object do my eyes behold? I'de rather have been depriv'd o'th' light, then e're have ſeen this ſight: How now, ſir? How broke you looſe, and got that wench?</p>
+                  </sp>
+               </div>
+               <div type="scene">
+                  <head>ACT. 5. SCENE 6.</head>
+                  <stage>Eug. Jun.</stage>
+                  <p>I Got her, Sir, by my Unckles means.</p>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <p>How, Sirrah! by my means? I never ſaw her in my life before; and would ſooner have ſeen you both hang'd to<g ref="char:EOLhyphen"/>gether: What? D'you make me your Pimp?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>Nay, Sir, we're hang'd together ſo faſt, that there's no cutting the rope now. Marriage can't be diſſolved until death.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun. Fath.</speaker>
+                     <p>What wicked wretch was't marri'd you?</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>My Unckle, Sir.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Sen.</speaker>
+                     <l>Tis a notorious lye;</l>
+                     <pb facs="tcp:95846:28"/>
+                     <l>I never ſaw this woman before.</l>
+                  </sp>
+                  <sp>
+                     <speaker>Morph.</speaker>
+                     <p>Yes, Sir, but you have: I was the <hi>Mary Allcock</hi> you married.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun.</speaker>
+                     <p>And I the <hi>Philip Lovelaſs,</hi> whom you askt whether I could love this Laſs or no, and then married us.</p>
+                  </sp>
+                  <sp>
+                     <speaker>Eug. Jun. Fath.</speaker>
+                     <p>Well, Brother, I ſee now we're outwitted, and that young people may ſee more with their eyes in their heads, then old men with their eyes hanging at their girdle. We'le go in now, and ſeeing they are married, prepare a feaſt for'um: I have a living at my diſpoſal that I'le bequeath to <hi>Aphobos,</hi> be<g ref="char:EOLhyphen"/>cauſe he's poor: And as for you, <hi>Eugenes,</hi> becauſe you have con<g ref="char:EOLhyphen"/>triv'd your Plot ſo well, I declare you my ſole Heir: I'le not vex my ſelf in vain.</p>
+                  </sp>
+                  <lg>
+                     <l>To vex when miſchiefs are quite paſt and gone,</l>
+                     <l>Is the next way to bring more miſchiefs on.</l>
+                  </lg>
+                  <trailer>Finis Actus quinti.</trailer>
+               </div>
+            </div>
+            <div type="epilogue">
+               <head>Epilogue to the Spectators.</head>
+               <lg>
+                  <head>Eug. Jun.</head>
+                  <l>BEfore you all, my Father does declare,</l>
+                  <l>That he intends me for his lawful Heir.</l>
+                  <l>My Poverty henceforth I'le not bewail,</l>
+                  <l>For now I may, Top and Top gallant ſail</l>
+                  <l>In th'Ocean of his wealth, not will I fear</l>
+                  <l>The Shipwrack of my Fortunes, whil'ſt I ſtear</l>
+                  <l>My courſe, ſo you, like th'<hi>Laplanders,</hi> will ſell</l>
+                  <l>A Gale of your Applauſe, my Sails to ſwell.</l>
+               </lg>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:95846:29" rendition="simple:additions"/>
+            <head>A Catalogues, o<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Books ſold by <hi>Henry Marſh</hi> at the Princes Arms in <hi>Chancery-lane,</hi> lately Publiſhed.</head>
+            <list>
+               <item>THe Engliſh Lovers, or a Girle worth Gold, both parts, ſo often acted with general applauſe, now newly formed into a Romance, by the accurate Pen of <hi>I. D.</hi> Gent.</item>
+               <item>A Compendious Chronicle of the Kingdom of <hi>Portugal,</hi> from <hi>Alphon<g ref="char:EOLhyphen"/>ſo,</hi> the firſt King, to <hi>Alphonſo</hi> the ſixth, now reigning.</item>
+               <item>Thoſe excellent Fancies entituled, <hi>Don Juan Lamberto,</hi> or a Co<g ref="char:EOLhyphen"/>mical Hiſtory of our late Times, firſt and ſecond Part, by <hi>Montelion</hi> Knight of the Oracle.</item>
+               <item>☜ A new Engliſh Grammer for Forreigners to learn Engliſh, with a Grammer for the <hi>Spaniſh,</hi> or <hi>Caſtilian</hi> Tongue, with ſpecial Remarks on the <hi>Portugues</hi> Dialect, for the ſervice of her Majeſty, whom God pre<g ref="char:EOLhyphen"/>ſerve, by <hi>James Howel</hi>
+                  <abbr>Eſq</abbr>.</item>
+               <item>The Life and Death of that Reverend Divine, and excellent Hiſtorian, Dr. <hi>Thomas Fuller,</hi> lately deceaſed.</item>
+               <item>
+                  <hi>Studii Legalis Ratio,</hi> or Directions for the ſtudy of the Law, under theſe heads, the Qualifications for the Nature, Means, Method, Time and place of the Study, by <hi>W. Philips</hi> of <hi>Grayes Inn,</hi> &amp;c. price <hi>1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</hi>
+               </item>
+            </list>
+            <list>
+               <head>Books Publiſhed this Term.</head>
+               <item>
+                  <hi>RUmp,</hi> or an exact Collection of the choiſeſt Songs and Poems, from <hi>1639.</hi> to <hi>1661.</hi> Relating to the late Times, by the moſt eminent Wits.</item>
+               <item>A new diſcovery of the <hi>French</hi> Diſeaſe, and Running of the Reins, their Cauſes, Signs, with plain and eaſie directions, of perfect curing the ſame, by <hi>R. Bunworth,</hi> the ſecond Edition corrected with large Addi<g ref="char:EOLhyphen"/>tionals.</item>
+               <item>
+                  <hi>Fragmenta Aurli<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a,</hi> or <hi>Court</hi> &amp; <hi>State Jeſts,</hi> in noble Drollery, True and Real, aſcertained to the Times, Places, and Perſons, by <hi>T. S.</hi> Gent.</item>
+            </list>
+            <list>
+               <head>PLAYS.</head>
+               <item>Thracian Wonder.</item>
+               <item>Gurtons Nedle.</item>
+               <item>Catalogue of Plays</item>
+               <item>Loves Miſtreſs.</item>
+               <item>Plutus.</item>
+               <item>Queen of <hi>Aragon</hi>
+               </item>
+               <item>Obſtinate Lady.</item>
+               <item>Maides Revenge.</item>
+               <item>Lacivious Queen.</item>
+               <item>Noble Ingratitude</item>
+               <item>Enchanted Lover.</item>
+               <item>Amorous Fantaſie.</item>
+               <item>Poor Scholar.</item>
+            </list>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:95846:29"/>
+         </div>
+      </back>
+   </text>
+</TEI>
